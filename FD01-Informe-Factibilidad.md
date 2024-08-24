@@ -14,7 +14,7 @@
 
 Curso: *{Nombre de Asignatura}*
 
-Docente: *{Nombre de Docente}*
+Docente: Patrick Cuadros Quiroga
 
 Integrantes:
 
