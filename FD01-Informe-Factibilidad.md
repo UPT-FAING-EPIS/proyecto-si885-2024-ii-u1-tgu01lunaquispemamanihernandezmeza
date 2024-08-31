@@ -159,8 +159,7 @@ Versión *{1.0}*
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
-
+cristia
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
         Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
