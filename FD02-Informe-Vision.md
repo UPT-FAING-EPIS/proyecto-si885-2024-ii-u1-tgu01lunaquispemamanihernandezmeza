@@ -15,19 +15,25 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *Proyecto Prevalencia de Enfermedades en el Campus
+***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Inteligencia de Negocios
+*
 
-Docente: *{Nombre de Docente}*
+Docente: *Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+Meza Noalcca Jean Marco (2021071087) 
+Luna Juárez Juan Brendon (2020068762) 
+Elvis Mamani Valdivia (2020068763) 
+Cristian Quispe Levano (2018000590) 
+Angel Hernandez Cruz (2021000000)
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **
@@ -50,7 +56,7 @@ Integrantes:
 
 
 
-**Sistema *{Nombre del Sistema}***
+**Sistema de Impacto de la Actividad Física en la Salud Estudiantil***
 
 **Documento de Visión**
 
@@ -170,16 +176,49 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 3. <span id="_Toc52661348" class="anchor"></span>**Vista General del Producto**
 
     3.1	Resumen de los interesados
+       Los interesados son todas las personas y grupos que tienen un interés en el proyecto y cuyos objetivos pueden verse afectados por los resultados del estudio.
+            Administradores Universitarios: Interesados en mejorar el bienestar estudiantil y en la efectividad de los programas de salud en el campus.
+            Profesores y Personal Académico: Afectados por el nivel de estrés y bienestar de los estudiantes, que puede influir en el ambiente educativo.
+            Consejeros y Psicólogos Universitarios: Encargados de la salud mental de los estudiantes, interesados en estrategias basadas en evidencia para mejorar el bienestar.
+            Estudiantes Universitarios: Principal foco del estudio, cuya salud mental y física se busca mejorar a través del proyecto.
 
     3.2	Resumen de los usuarios
-
+        Estudiantes Participantes: Usuarios directos del estudio que proporcionarán datos sobre su actividad física y bienestar mental.
+        Investigadores del Proyecto: Utilizarán los datos recopilados para analizar y formular recomendaciones.
+        Administradores de Programas de Bienestar: Implementarán las recomendaciones del estudio en el entorno universitario.
+   
     3.3	Entorno de usuario
-
+        Campus Universitario: Incluye espacios físicos como gimnasios, áreas recreativas, y aulas donde se realizará la recolección de datos y se implementarán posibles programas.
+        Plataformas Digitales: Herramientas de recolección de datos en línea y software para análisis como Power BI Desktop y Power BI Service para procesar y visualizar los resultados.
+        Servicios de Salud Estudiantil: Áreas encargadas de apoyar la salud mental y física de los estudiantes.
+   
     3.4	Perfiles de los interesados
-
+        Administradores Universitarios: Personas responsables de la toma de decisiones y planificación estratégica en la universidad.
+            Intereses: Mejora de la salud estudiantil, optimización de los recursos universitarios, y refuerzo de la reputación de la universidad.
+        Profesores y Personal Académico: Involucrados en la vida diaria de los estudiantes y su rendimiento académico.
+            Intereses: Creación de un entorno de aprendizaje más saludable y productivo.
+        Consejeros y Psicólogos Universitarios: Profesionales dedicados al apoyo emocional y psicológico de los estudiantes.
+            Intereses: Implementación de intervenciones efectivas para la salud mental y reducción del estrés estudiantil.
+   
     3.5	Perfiles de los Usuarios
+        Estudiantes Participantes:
+            Características: Diversos niveles de actividad física, variados grados de estrés y bienestar mental.
+            Necesidades: Herramientas para reportar su actividad física y estado mental, y apoyo para interpretar los resultados y recomendaciones.
+   
+        Investigadores del Proyecto:        
+            Características: Personal académico o técnico encargado de llevar a cabo el estudio.
+            Necesidades: Acceso a datos precisos, herramientas de análisis como Power BI, y soporte en la interpretación de resultados.
+   
+        Administradores de Programas de Bienestar:        
+            Características: Encargados de la implementación de programas basados en el estudio.
+            Necesidades: Recomendaciones claras y prácticas sobre cómo integrar la actividad física en los programas de bienestar estudiantil.
 
     3.6	Necesidades de los interesados y usuarios
+        Administradores Universitarios: Necesitan datos claros sobre el impacto de la actividad física en la salud mental para tomar decisiones informadas y justificar la inversión en programas de bienestar.
+        Profesores y Personal Académico: Requieren evidencia sobre cómo la actividad física afecta el rendimiento y el bienestar estudiantil para mejorar sus estrategias de apoyo.
+        Consejeros y Psicólogos Universitarios: Necesitan resultados basados en evidencia para desarrollar e implementar estrategias efectivas para reducir el estrés y mejorar la salud mental.
+        Estudiantes Participantes: Buscan herramientas y apoyo para mejorar su bienestar mental a través de la actividad física, así como beneficios tangibles del estudio.
+        Investigadores del Proyecto: Necesitan acceso a datos y herramientas analíticas para realizar un análisis detallado y obtener conclusiones válidas.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
