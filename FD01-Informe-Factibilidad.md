@@ -10,30 +10,34 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto * Proyecto Prevalencia de Enfermedades en el Campus***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Inteligencia de Negocios*
 
 Docente: Patrick Cuadros Quiroga
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***Meza Noalcca Jean Marco (2021071087)***
+***Luna Juárez Juan Brendon		(2020068762)***
+***Elvis Mamani Valdivia		(2020068763)***
+***Cristian Quispe Levano 		(2018000590)***
+***Angel Hernandez Cruz (2021000000)***
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
+Sistema de Evaluación de la Incidencia de Enfermedades en el Entorno Estudiantil
 
 Informe de Factibilidad
 
-Versión *{1.0}*
+Versión *1.0*
 
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
@@ -76,24 +80,46 @@ Versión *{1.0}*
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
     1.1. Nombre del proyecto
-
+        Impacto de la Actividad Física en la Salud Estudiantil
     1.2. Duración del proyecto
-
+        La duracion del proyecto esta planificado para 6 meses
     1.3. Descripción
+        Este proyecto tiene como objetivo investigar cómo la actividad física regular influye en la salud mental y el bienestar general de los estudiantes universitarios. Dado el contexto universitario, donde los estudiantes enfrentan múltiples desafíos académicos y personales, es fundamental entender cómo el ejercicio puede actuar como un factor de mitigación frente al estrés, la ansiedad y otros problemas de salud mental. El estudio analizará la relación entre los niveles de actividad física y diversos indicadores de salud mental, como el estrés, la ansiedad y la depresión. La importancia radica en proporcionar datos basados en evidencia para fomentar la integración de programas de ejercicio físico dentro del entorno universitario, mejorando así el bienestar integral de los estudiantes.
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
 
     1.4. Objetivos
 
         1.4.1 Objetivo general
+           Evaluar el impacto de la actividad física regular en la salud mental y el bienestar general de los estudiantes universitarios para formular recomendaciones prácticas que promuevan un entorno saludable en el campus.
+
         1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+            Determinar los niveles de actividad física entre los estudiantes universitarios y su relación con indicadores de salud mental.
+
+            Lo que se va a lograr: Identificar el grado de participación en actividades físicas y cómo estos niveles se correlacionan con medidas de bienestar mental.
+            Analizar el efecto del ejercicio físico en la reducción del estrés, la ansiedad y la depresión en la población estudiantil.
+            Lo que se va a lograr: Proporcionar información sobre cómo el ejercicio puede influir positivamente en la salud mental, identificando posibles beneficios.
+            Comparar la salud mental de los estudiantes que participan en actividades físicas estructuradas frente a aquellos que realizan ejercicio de forma informal.
+            Lo que se va a lograr: Evaluar si la estructura y la regularidad del ejercicio tienen un impacto diferente en la salud mental en comparación con la actividad física no estructurada.
+            Desarrollar recomendaciones para la universidad sobre la implementación de programas de actividad física como parte de las estrategias de bienestar estudiantil.
+            Lo que se va a lograr: Ofrecer sugerencias basadas en los hallazgos para ayudar a la universidad a integrar efectivamente el ejercicio físico en sus programas de salud estudiantil.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+    Baja tasa de participación: Es posible que no todos los estudiantes participen en el estudio, lo que puede afectar la representatividad de los resultados.
+    Mitigación: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
+    Recopilación inexacta de datos: La calidad de los datos puede verse afectada por errores en la recolección o la autoevaluación de los participantes.
+    Mitigación: Utilizar métodos de recolección validados y realizar pruebas preliminares para asegurar la precisión y confiabilidad de los datos.
+    Factores externos que afectan la salud mental: Eventos externos o cambios en el entorno pueden influir en los resultados del estudio.
+    Mitigación: Controlar y registrar estos factores en el análisis para ajustar los resultados en consecuencia.
+    Problemas éticos y de privacidad: Asegurar la confidencialidad y el consentimiento informado de los participantes es crucial.
+    Mitigación: Implementar protocolos rigurosos para proteger la privacidad de los participantes y cumplir con las normas éticas.
+    Limitaciones de recursos: El financiamiento o los recursos disponibles podrían ser insuficientes para llevar a cabo el proyecto de manera óptima.
+    Mitigación: Buscar financiamiento adicional, colaboraciones con otras instituciones o ajustes en el alcance del proyecto para adaptarse a los recursos disponibles.
+    Estos detalles te proporcionarán una estructura clara para tu informe de factibilidad y te ayudarán a asegurar que el proyecto esté bien planificado y preparado para abordar los posibles desafíos.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -101,11 +127,17 @@ Versión *{1.0}*
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+            La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
+
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+    Hardware:
+            Para utilizar Power BI Desktop y Power BI Service de manera eficiente, se recomienda contar con computadoras o laptops con al menos un procesador Intel Core i5, 8 GB de RAM, y un SSD de 256 GB. Una pantalla Full HD también es recomendable para una visualización óptima.
+    
+    Software:
+            Power BI Desktop: Instalación local gratuita para el diseño y análisis de informes.
+    Power BI Service: Plataforma en la nube para compartir y colaborar en informes, requiere suscripción a Power BI Pro o Premium para funciones avanzadas.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
