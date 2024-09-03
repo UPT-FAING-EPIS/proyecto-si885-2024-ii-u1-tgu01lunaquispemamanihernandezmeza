@@ -18,10 +18,14 @@ Docente: Patrick Cuadros Quiroga
 
 Integrantes:
 
-***Meza Noalcca Jean Marco (2021071087)***
+***Meza Noalcca Jean Marco     (2021071087)***
+
 ***Luna Juárez Juan Brendon		(2020068762)***
+
 ***Elvis Mamani Valdivia		(2020068763)***
+
 ***Cristian Quispe Levano 		(2018000590)***
+
 ***Angel Hernandez Cruz (2021000000)***
 
 **Tacna – Perú**
@@ -80,10 +84,13 @@ Versión *1.0*
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
     1.1. Nombre del proyecto
+   
         Impacto de la Actividad Física en la Salud Estudiantil
     1.2. Duración del proyecto
+   
         La duracion del proyecto esta planificado para 6 meses
     1.3. Descripción
+   
         Este proyecto tiene como objetivo investigar cómo la actividad física regular influye en la salud mental y el bienestar general de los estudiantes universitarios. Dado el contexto universitario, donde los estudiantes enfrentan múltiples desafíos académicos y personales, es fundamental entender cómo el ejercicio puede actuar como un factor de mitigación frente al estrés, la ansiedad y otros problemas de salud mental. El estudio analizará la relación entre los niveles de actividad física y diversos indicadores de salud mental, como el estrés, la ansiedad y la depresión. La importancia radica en proporcionar datos basados en evidencia para fomentar la integración de programas de ejercicio físico dentro del entorno universitario, mejorando así el bienestar integral de los estudiantes.
 
 
@@ -107,7 +114,7 @@ Versión *1.0*
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
-
+   
     Baja tasa de participación: Es posible que no todos los estudiantes participen en el estudio, lo que puede afectar la representatividad de los resultados.
     Mitigación: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
     Recopilación inexacta de datos: La calidad de los datos puede verse afectada por errores en la recolección o la autoevaluación de los participantes.
