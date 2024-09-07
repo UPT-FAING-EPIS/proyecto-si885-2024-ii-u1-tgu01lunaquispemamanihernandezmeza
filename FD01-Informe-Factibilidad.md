@@ -267,14 +267,11 @@ cristia
         
         5.1.2. Criterios de Inversión
         
-            <div style="text-align: center;">
-                <img src="media/facti1.PNG" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">
-            </div><br>
+![Valor Actual Neto](media/facti1.png)
 
-            <div style="text-align: center;">
-                <img src="media/facti2.png" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">
-            </div><br>
-            
+![Valor Actual Neto](media/facti2.png)
+
+
             5.1.2.1. Relación Beneficio/Costo (B/C)
 
                 ![./media/media/facti3.png](./media/facti3.png)
