@@ -158,14 +158,35 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
 
     1.1	Propósito
+   
+       El propósito de este informe es presentar una visión integral del proyecto “Impacto de la Actividad Física en la Salud Estudiantil”, que busca evaluar cómo la actividad física regular influye en la salud mental y el bienestar general de los estudiantes universitarios. El informe proporciona un contexto para el estudio, define el alcance del proyecto, y presenta las bases para la investigación, incluyendo definiciones relevantes y referencias. Su objetivo es sentar las bases para la implementación del estudio y guiar la toma de decisiones para optimizar el impacto de los programas de ejercicio físico en el entorno universitario.
 
     1.2	Alcance
+   
+       Este proyecto se centrará en los estudiantes universitarios de una institución específica, analizando la relación entre su nivel de actividad física y su salud mental. El alcance incluye la recolección y análisis de datos sobre hábitos de ejercicio, niveles de estrés, ansiedad y depresión, y la formulación de recomendaciones basadas en los hallazgos. El estudio abarca un período de 6 meses, durante el cual se llevarán a cabo encuestas, entrevistas y análisis estadísticos para evaluar el impacto del ejercicio en el bienestar estudiantil.
+
 
     1.3	Definiciones, Siglas y Abreviaturas
 
+        Actividad Física (AF): Cualquier movimiento corporal producido por los músculos esqueléticos que resulta en un gasto de energía.
+        Salud Mental (SM): Estado de bienestar en el que el individuo se da cuenta de sus propias capacidades, puede afrontar las tensiones normales de la vida, trabajar productivamente y contribuir a su comunidad.
+        Estrés: Respuesta física y mental a demandas externas que superan la capacidad de afrontamiento del individuo.
+        Ansiedad: Trastorno caracterizado por sentimientos de preocupación y temor excesivos.
+        Depresión: Trastorno del estado de ánimo que causa una persistente sensación de tristeza y pérdida de interés.
+        Universidad (UNI): Institución educativa superior donde se llevará a cabo el estudio.
+
+
     1.4	Referencias
+   
+        World Health Organization (WHO). (2020). Mental health: strengthening our response. 
+        American Psychological Association (APA). (2021). Exercise and mental health. 
+        Centers for Disease Control and Prevention (CDC). (2019). Physical activity and health. 
+        Smith, A., & Jones, B. (2018). The impact of physical activity on student mental health. Journal of College Health, 66(4), 254-265.
 
     1.5	Visión General
+
+       El proyecto “Impacto de la Actividad Física en la Salud Estudiantil” tiene como objetivo principal examinar cómo el ejercicio físico influye en la salud mental de los estudiantes universitarios. A través de un enfoque basado en datos, el proyecto analizará la relación entre diferentes niveles de actividad física y diversos indicadores de salud mental, como estrés, ansiedad y depresión. La visión es proporcionar evidencia sólida que respalde la integración de programas de ejercicio en el campus universitario para mejorar el bienestar general de los estudiantes. El informe detalla el contexto del proyecto, la metodología propuesta, y las expectativas de resultados, estableciendo un marco para la investigación y la aplicación de los hallazgos.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -173,7 +194,16 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
     2.1	Oportunidad de negocio
 
+        La creciente preocupación por la salud mental en las universidades presenta una oportunidad significativa para mejorar el bienestar estudiantil mediante la implementación de programas de actividad física. Este proyecto ofrece una oportunidad para:
+            Desarrollar Programas de Bienestar: Basado en los hallazgos del estudio, se pueden diseñar e implementar programas de ejercicio adaptados a las necesidades específicas de los estudiantes.
+            Mejorar la Calidad de Vida Estudiantil: Al proporcionar evidencia de los beneficios del ejercicio, la universidad puede fortalecer su oferta de servicios de salud mental y bienestar.
+            Generar Nuevas Iniciativas: Resultados positivos pueden llevar a la creación de nuevas políticas y recursos para promover la salud física y mental en el campus.
+
+
     2.2	Definición del problema
+
+        Los estudiantes universitarios a menudo enfrentan altos niveles de estrés, ansiedad y     depresión debido a la carga académica, la presión social y otros factores estresantes. La actividad física ha demostrado ser una herramienta efectiva para mejorar la salud mental y el bienestar, pero la relación específica entre los niveles de actividad física y la salud mental en el contexto universitario no siempre está clara. Este proyecto pretende abordar la falta de datos específicos sobre cómo el ejercicio afecta a los estudiantes, con el fin de proporcionar recomendaciones basadas en evidencia para integrar estrategias de actividad física en la vida universitaria y, de este modo, apoyar mejor la salud mental y el bienestar de los estudiantes.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
