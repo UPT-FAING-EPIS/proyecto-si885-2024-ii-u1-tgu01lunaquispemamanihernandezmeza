@@ -266,7 +266,8 @@ cristia
             - Valor agregado a un producto de la compañía.
         
         5.1.2. Criterios de Inversión
-            ![./media/media/image1.png](./media/logo-upt.png)
+        
+            ![Imagen 1](./media/facti1.png)
             ![./media/media/facti2.png](./media/facti2.png)
             5.1.2.1. Relación Beneficio/Costo (B/C)
 
