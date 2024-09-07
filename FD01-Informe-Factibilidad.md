@@ -274,11 +274,11 @@ cristia
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
 
-                ![./media/media/facti3.png](./media/facti3.png)
+![Valor Actual Neto](media/facti3.png)
 
             5.1.2.2. Valor Actual Neto (VAN)
             
-                ![./media/media/facti4.png](./media/facti4.png)
+![Valor Actual Neto](media/facti4.png)
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
                 No existe TIR
