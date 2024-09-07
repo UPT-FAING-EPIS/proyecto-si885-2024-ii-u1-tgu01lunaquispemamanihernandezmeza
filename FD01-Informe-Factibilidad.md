@@ -268,7 +268,7 @@ cristia
         5.1.2. Criterios de Inversión
         
             <div style="text-align: center;">
-                <img src="media/facti1.png" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">
+                <img src="media/facti1.PNG" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">
             </div><br>
 
             <div style="text-align: center;">
