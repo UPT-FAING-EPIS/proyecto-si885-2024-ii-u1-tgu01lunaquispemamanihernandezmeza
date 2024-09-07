@@ -266,21 +266,18 @@ cristia
             - Valor agregado a un producto de la compañía.
         
         5.1.2. Criterios de Inversión
-
+            ![./media/media/facti1.png](./media/facti1.png)
+            ![./media/media/facti2.png](./media/facti2.png)
             5.1.2.1. Relación Beneficio/Costo (B/C)
 
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+                ![./media/media/facti3.png](./media/facti3.png)
 
             5.1.2.2. Valor Actual Neto (VAN)
             
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+                ![./media/media/facti4.png](./media/facti4.png)
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
-
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+                No existe TIR
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
