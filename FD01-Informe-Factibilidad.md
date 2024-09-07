@@ -218,19 +218,32 @@ Definir los siguientes costos:
                 {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
+    
+El proyecto en cuestión es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI. Este sistema tiene como objetivo principal mejorar la gestión de la información clínica y administrativa del policlínico, facilitando el acceso a datos relevantes, generando informes detallados y apoyando en la toma de decisiones.
 
-cristia
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+      El proyecto es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI, con el objetivo de mejorar la gestión de la información clínica y administrativa.
+Evaluación Legal:
+Cumplimiento de Normativas: Asegúrate de que el sistema cumple con las leyes locales y nacionales relacionadas con la protección de datos personales, como la Ley de Protección de Datos Personales en Perú.
+Regulaciones de Salud: Verifica que el sistema cumple con las regulaciones específicas del sector salud para la gestión y almacenamiento de datos clínicos.
+Licencias de Software: Confirma que el uso de Power BI y otros componentes del sistema cumplan con las licencias y acuerdos de uso
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+       El proyecto del sistema de base de datos para el Policlínico de la Universidad Privada de Tacna tiene como objetivo mejorar la eficiencia en la gestión de la información y apoyar en la toma de decisiones.
+Evaluación Social:
+Clima Político: Asegúrate de que no existan nuevas regulaciones o cambios políticos que puedan afectar el uso de tecnologías de datos en el sector salud.
+Código de Conducta y Ética: Verifica que el sistema cumpla con los códigos de conducta y prácticas éticas, garantizando la confidencialidad y privacidad de los datos de los pacientes.
+Aceptación del Usuario: Asegura la aceptación del sistema entre el personal médico y administrativo mediante una adecuada capacitación para facilitar la adaptación al nuevo sistema.
 
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+ El sistema está diseñado para mejorar la gestión de la información y tiene un impacto ambiental mínimo.
+Evaluación Ambiental:
+Impacto Directo: El impacto ambiental del sistema es bajo, principalmente relacionado con el consumo de energía de los servidores y equipos. Se recomienda utilizar fuentes de energía renovable para minimizar este impacto.
+Uso de Recursos: Asegúrate de que el hardware utilizado sea eficiente en términos de energía y que los equipos antiguos se dispongan de manera adecuada.
+Residuos Electrónicos: Planifica la disposición y reciclaje adecuado de equipos electrónicos obsoletos para reducir residuos y minimizar el impacto ambiental.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
