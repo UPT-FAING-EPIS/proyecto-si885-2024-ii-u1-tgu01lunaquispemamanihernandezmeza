@@ -268,6 +268,7 @@ cristia
         5.1.2. Criterios de Inversión
             Costos Totales del Proyecto:
 ![Valor Actual Neto](media/facti1.png)
+
             Calculo de Flujo de Caja Neto durante el tiempo del Proyecto:
 ![Valor Actual Neto](media/facti2.png)
 
