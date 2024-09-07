@@ -266,18 +266,18 @@ cristia
             - Valor agregado a un producto de la compañía.
         
         5.1.2. Criterios de Inversión
-        
+            Costos Totales del Proyecto:
 ![Valor Actual Neto](media/facti1.png)
-
+            Calculo de Flujo de Caja Neto durante el tiempo del Proyecto:
 ![Valor Actual Neto](media/facti2.png)
 
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
-
+                El Beneficio al Ser 0.02 no aporta ningun Beneficio a la Empresa sin Embargo Ayudara a prevenir futuras crisis de Problemas Fisicos o  y Psycologicos
 ![Valor Actual Neto](media/facti3.png)
 
             5.1.2.2. Valor Actual Neto (VAN)
-            
+                Gasto del Proyecto llevado a la Actualidad
 ![Valor Actual Neto](media/facti4.png)
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
