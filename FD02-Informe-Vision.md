@@ -168,21 +168,21 @@ El análisis se centrará en la prevalencia de enfermedades respiratorias, inclu
 
     1.3	Definiciones, Siglas y Abreviaturas
 
-        Prevalencia: Número de casos de una enfermedad presentes en una población durante un tiempo específico.
+Prevalencia: Número de casos de una enfermedad presentes en una población durante un tiempo específico.
 Enfermedades Respiratorias: Incluye afecciones como la gripe, resfriado común, bronquitis, y neumonía.
 Estudiantes: Población matriculada en cursos de tiempo completo y parcial en la universidad.
 
 
     1.4	Referencias
    
-       Reportes de salud del campus (2019-2024).
+Reportes de salud del campus (2019-2024).
 Estudios nacionales sobre enfermedades respiratorias en estudiantes universitarios.
 Artículos académicos sobre salud pública en entornos educativos.
 
 
     1.5	Visión General
 
-      Este análisis proporcionará una visión integral sobre las tendencias de prevalencia de enfermedades respiratorias entre estudiantes, identificando posibles factores de riesgo y proponiendo estrategias para mitigar la incidencia de estas enfermedades en el futuro.
+Este análisis proporcionará una visión integral sobre las tendencias de prevalencia de enfermedades respiratorias entre estudiantes, identificando posibles factores de riesgo y proponiendo estrategias para mitigar la incidencia de estas enfermedades en el futuro.
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
@@ -191,12 +191,12 @@ Artículos académicos sobre salud pública en entornos educativos.
 
     2.1	Oportunidad de negocio
 
-       La creciente incidencia de enfermedades respiratorias en el campus representa una oportunidad para desarrollar e implementar programas de salud preventivos, que no solo mejoren la salud de los estudiantes, sino que también reduzcan el ausentismo y mejoren el rendimiento académico.
+    La creciente incidencia de enfermedades respiratorias en el campus representa una oportunidad para desarrollar e implementar programas de salud preventivos, que no solo mejoren la salud de los estudiantes, sino que también reduzcan el ausentismo y mejoren el rendimiento académico.
 
 
     2.2	Definición del problema
 
-En los últimos cinco años, se ha observado un aumento significativo en los casos de enfermedades respiratorias entre los estudiantes del campus. Este incremento no solo afecta la salud de los individuos, sino que también tiene repercusiones negativas en el entorno académico y la eficiencia del sistema educativo.
+    En los últimos cinco años, se ha observado un aumento significativo en los casos de enfermedades respiratorias entre los estudiantes del campus. Este incremento no solo afecta la salud de los individuos, sino que también tiene repercusiones negativas en el entorno académico y la eficiencia del sistema educativo.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -204,36 +204,36 @@ En los últimos cinco años, se ha observado un aumento significativo en los cas
 
     3.1	Resumen de los interesados
    
-Administración del Campus: Interesada en mejorar la salud general del estudiantado y reducir el ausentismo.
-Departamentos de Salud y Bienestar: Encargados de implementar programas de salud y de monitorear la salud pública en el campus.
-Estudiantes: Principales afectados por la prevalencia de enfermedades respiratorias.
+    Administración del Campus: Interesada en mejorar la salud general del estudiantado y reducir el ausentismo.
+    Departamentos de Salud y Bienestar: Encargados de implementar programas de salud y de monitorear la salud pública en el campus.
+    Estudiantes: Principales afectados por la prevalencia de enfermedades respiratorias.
 
 
     3.2	Resumen de los usuarios
    
-Estudiantes: Necesitan acceso a información y recursos de salud para prevenir enfermedades.
-Personal Médico del Campus: Necesita datos precisos para identificar tendencias y diseñar programas efectivos.
-Administradores: Requieren información para tomar decisiones informadas sobre políticas de salud.
+    Estudiantes: Necesitan acceso a información y recursos de salud para prevenir enfermedades.
+    Personal Médico del Campus: Necesita datos precisos para identificar tendencias y diseñar programas efectivos.
+    Administradores: Requieren información para tomar decisiones informadas sobre políticas de salud.
 
    
     3.3	Entorno de usuario
    
-        Los usuarios interactúan en un entorno universitario que incluye espacios compartidos como aulas, residencias, bibliotecas y gimnasios, donde la transmisión de enfermedades respiratorias es más probable.
+    Los usuarios interactúan en un entorno universitario que incluye espacios compartidos como aulas, residencias, bibliotecas y gimnasios, donde la transmisión de enfermedades respiratorias es más probable.
    
     3.4	Perfiles de los interesados
    
-        Administradores del Campus: Responsables de las políticas de salud y seguridad.
+    Administradores del Campus: Responsables de las políticas de salud y seguridad.
 Departamentos de Salud: Encargados de la gestión de la salud en el campus.
 
    
     3.5	Perfiles de los Usuarios
    
-        Estudiantes: Jóvenes adultos entre 18 y 25 años, con horarios académicos intensivos y estilos de vida variados.
+    Estudiantes: Jóvenes adultos entre 18 y 25 años, con horarios académicos intensivos y estilos de vida variados.
 Personal Médico: Profesionales de la salud con experiencia en epidemiología y salud pública.
 
     3.6	Necesidades de los interesados y usuarios
    
-       Administradores: Necesitan datos para evaluar la efectividad de políticas de salud.
+   Administradores: Necesitan datos para evaluar la efectividad de políticas de salud.
 Estudiantes: Necesitan programas de prevención y educación sobre enfermedades respiratorias.
 Personal Médico: Requiere sistemas eficientes para la detección temprana y el seguimiento de enfermedades.
 
