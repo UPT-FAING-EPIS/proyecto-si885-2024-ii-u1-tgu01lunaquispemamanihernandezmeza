@@ -191,13 +191,14 @@ Conclusión Económica: La inversión inicial en el proyecto está justificada p
 Definir los siguientes costos:
 
 
+      
         4.2.1. Costos Generales
 
              
             En la factibilidad económica se considera el siguiente plan a ser analizado:
             Consultando el portal web Indeed que el sueldo promedio de un profesional en el área de sistemas es de S/ 2,800 por mes en Perú. 
 
-    ![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
+![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
                  PAGO INICIAL: 	S/4,732.00 (Primer mes)  
                  PAGO MENSUAL:	S/4,740.50  
                  VALOR DE SALVAMENTO:	S/ 792.00  
@@ -211,8 +212,6 @@ Definir los siguientes costos:
               De igual manera según lo recopilado del portal Indeep  calculamos el sueldo de los programadores y diseñadores y esto multiplicado por los 6 meses en lo que está proyectado el desarrollo de nuestro trabajo.
 ![./media/media/costooperativo.jpg](./media/costooperativo.jpg)
             Cuadro de costos de personal:
-
-
 
 
         4.2.3. Costos del ambiente
