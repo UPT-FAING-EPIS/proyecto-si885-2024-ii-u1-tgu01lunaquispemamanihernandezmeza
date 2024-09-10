@@ -163,21 +163,21 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
     1.2	Alcance
    
-El análisis se centrará en la prevalencia de enfermedades respiratorias, incluyendo gripe, resfriados, y otras afecciones relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años y se compararán con promedios nacionales y regionales.
+    El análisis se centrará en la prevalencia de enfermedades respiratorias, incluyendo gripe, resfriados, y otras afecciones relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años y se compararán con promedios nacionales y regionales.
 
 
     1.3	Definiciones, Siglas y Abreviaturas
 
-Prevalencia: Número de casos de una enfermedad presentes en una población durante un tiempo específico.
-Enfermedades Respiratorias: Incluye afecciones como la gripe, resfriado común, bronquitis, y neumonía.
-Estudiantes: Población matriculada en cursos de tiempo completo y parcial en la universidad.
+    Prevalencia: Número de casos de una enfermedad presentes en una población durante un tiempo específico.
+    Enfermedades Respiratorias: Incluye afecciones como la gripe, resfriado común, bronquitis, y neumonía.
+    Estudiantes: Población matriculada en cursos de tiempo completo y parcial en la universidad.
 
 
     1.4	Referencias
    
-Reportes de salud del campus (2019-2024).
-Estudios nacionales sobre enfermedades respiratorias en estudiantes universitarios.
-Artículos académicos sobre salud pública en entornos educativos.
+    Reportes de salud del campus (2019-2024).
+    Estudios nacionales sobre enfermedades respiratorias en estudiantes universitarios.
+    Artículos académicos sobre salud pública en entornos educativos.
 
 
     1.5	Visión General
