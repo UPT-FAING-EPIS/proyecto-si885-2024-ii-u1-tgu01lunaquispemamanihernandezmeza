@@ -172,7 +172,12 @@ Versión *1.0*
 
         4.2.1. Costos Generales
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
+             
+            En la factibilidad económica se considera el siguiente plan a ser analizado:
+            Consultando el portal web Indeed que el sueldo promedio de un profesional en el área de sistemas es de S/ 2,800 por mes en Perú. 
+
+    ![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
+
 
         4.2.2. Costos operativos durante el desarrollo 
         
