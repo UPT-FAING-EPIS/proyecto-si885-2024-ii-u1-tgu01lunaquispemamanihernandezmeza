@@ -151,24 +151,45 @@ Versión *1.0*
 4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
     Factibilidad**
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+    El estudio de factibilidad tiene como objetivo determinar si el análisis de la prevalencia de enfermedades comunes entre estudiantes es viable en términos de recursos técnicos, económicos y organizativos. Se busca asegurar que el proyecto pueda ser realizado con éxito, maximizando los beneficios y minimizando los riesgos. Los resultados esperados incluyen una evaluación positiva de los recursos disponibles, la identificación de posibles desafíos y la confirmación de la viabilidad económica del proyecto.
 
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+        
+Hardware:
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
+Equipos de Computación: Los ordenadores del campus tienen la capacidad necesaria para manejar el análisis de datos, con especificaciones adecuadas para ejecutar software estadístico y de análisis de datos.
+Servidores: La universidad dispone de servidores con suficiente capacidad de almacenamiento y procesamiento para manejar grandes volúmenes de datos de salud y epidemiológicos.
+Software:
 
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
+Aplicaciones:
+Se utilizarán aplicaciones de análisis estadístico como SPSS o PowerBi para procesar los datos sobre enfermedades.
+Navegadores y Sistemas Operativos: Los navegadores web modernos y los sistemas operativos actuales en los equipos del campus son compatibles con las herramientas de análisis necesarias.
+Infraestructura de Red: La universidad cuenta con una infraestructura de red sólida que permite el acceso a bases de datos y sistemas de análisis sin problemas de conectividad.
+Tecnologías Adicionales:
+
+Dominio e Internet: El campus tiene acceso a dominios seguros y conexiones a Internet adecuadas para la recopilación y el análisis de datos en línea.
+Infraestructura de Red Física: Las redes físicas están bien mantenidas, lo que asegura un acceso eficiente y seguro a los datos necesarios para el estudio.
+Conclusión Técnica: La tecnología actual en el campus es adecuada para realizar el análisis de la prevalencia de enfermedades. No se requieren actualizaciones significativas ni adquisiciones adicionales de hardware o software.
+
 
     4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
+        
+Costos del Proyecto:
 
-        Definir los siguientes costos:
+Personal: Incluye costos para investigadores, analistas de datos y personal administrativo. Estimación aproximada: $4,000.00.
+Equipos y Software: Aunque la universidad ya posee el hardware y software necesarios, los costos adicionales podrían incluir licencias de software especializado y actualización de equipos si fuera necesario. Estimación aproximada: $2,000 - $5,000.
+Materiales y Otros Recursos: Incluye costos para la recolección de datos, encuestas y otros materiales necesarios para el estudio. Estimación aproximada: $1,000 - $2,000.
+Beneficios Esperados:
+
+Mejora en la Salud Estudiantil: Identificación de tendencias y prevalencias permitirá implementar intervenciones preventivas efectivas, mejorando la salud y el bienestar de los estudiantes.
+Datos para Políticas: La información recopilada puede apoyar la toma de decisiones para mejorar las políticas de salud en el campus y aumentar la eficiencia en la asignación de recursos.
+Reconocimiento y Financiamiento: Un estudio exitoso puede atraer financiamiento adicional y reconocimiento para la universidad, así como oportunidades para futuras investigaciones.
+Conclusión Económica: La inversión inicial en el proyecto está justificada por los beneficios esperados en términos de salud estudiantil y mejoras en las políticas de salud. El costo total del proyecto se estima entre $13,000 y $22,000, y se prevé que el retorno en términos de beneficios para la comunidad universitaria y potenciales ingresos futuros justifica esta inversión.
+
+Definir los siguientes costos:
+
 
         4.2.1. Costos Generales
 
@@ -213,19 +234,32 @@ Versión *1.0*
                 {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
+    
+El proyecto en cuestión es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI. Este sistema tiene como objetivo principal mejorar la gestión de la información clínica y administrativa del policlínico, facilitando el acceso a datos relevantes, generando informes detallados y apoyando en la toma de decisiones.
 
-cristia
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+      El proyecto es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI, con el objetivo de mejorar la gestión de la información clínica y administrativa.
+Evaluación Legal:
+Cumplimiento de Normativas: Asegúrate de que el sistema cumple con las leyes locales y nacionales relacionadas con la protección de datos personales, como la Ley de Protección de Datos Personales en Perú.
+Regulaciones de Salud: Verifica que el sistema cumple con las regulaciones específicas del sector salud para la gestión y almacenamiento de datos clínicos.
+Licencias de Software: Confirma que el uso de Power BI y otros componentes del sistema cumplan con las licencias y acuerdos de uso
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+       El proyecto del sistema de base de datos para el Policlínico de la Universidad Privada de Tacna tiene como objetivo mejorar la eficiencia en la gestión de la información y apoyar en la toma de decisiones.
+Evaluación Social:
+Clima Político: Asegúrate de que no existan nuevas regulaciones o cambios políticos que puedan afectar el uso de tecnologías de datos en el sector salud.
+Código de Conducta y Ética: Verifica que el sistema cumpla con los códigos de conducta y prácticas éticas, garantizando la confidencialidad y privacidad de los datos de los pacientes.
+Aceptación del Usuario: Asegura la aceptación del sistema entre el personal médico y administrativo mediante una adecuada capacitación para facilitar la adaptación al nuevo sistema.
 
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+ El sistema está diseñado para mejorar la gestión de la información y tiene un impacto ambiental mínimo.
+Evaluación Ambiental:
+Impacto Directo: El impacto ambiental del sistema es bajo, principalmente relacionado con el consumo de energía de los servidores y equipos. Se recomienda utilizar fuentes de energía renovable para minimizar este impacto.
+Uso de Recursos: Asegúrate de que el hardware utilizado sea eficiente en términos de energía y que los equipos antiguos se dispongan de manera adecuada.
+Residuos Electrónicos: Planifica la disposición y reciclaje adecuado de equipos electrónicos obsoletos para reducir residuos y minimizar el impacto ambiental.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -261,21 +295,23 @@ cristia
             - Valor agregado a un producto de la compañía.
         
         5.1.2. Criterios de Inversión
+            Costos Totales del Proyecto:
+![Valor Actual Neto](media/facti1.png)
+
+            Calculo de Flujo de Caja Neto durante el tiempo del Proyecto:
+![Valor Actual Neto](media/facti2.png)
+
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
-
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+                El Beneficio al Ser 0.02 no aporta ningun Beneficio a la Empresa sin Embargo Ayudara a prevenir futuras crisis de Problemas Fisicos o  y Psycologicos
+![Valor Actual Neto](media/facti3.png)
 
             5.1.2.2. Valor Actual Neto (VAN)
-            
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+                Gasto del Proyecto llevado a la Actualidad
+![Valor Actual Neto](media/facti4.png)
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
-
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+                No existe TIR
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
