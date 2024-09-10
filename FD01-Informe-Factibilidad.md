@@ -233,24 +233,31 @@ De igual manera, según lo recopilado del portal **Indeed**, calculamos el sueld
 
 ![./media/media/costooperativo.jpg](./media/costooperativo.jpg)
 
+### 4.2.3. Costos del Ambiente
 
-        4.2.3. Costos del ambiente
+Los costos relacionados con el entorno de un centro de desarrollo de software pequeño pueden fluctuar debido a diversos factores, incluyendo el tamaño del local, su ubicación geográfica, los requisitos de infraestructura y las necesidades particulares del equipo de desarrollo. A continuación, se presentan algunos de los gastos típicos asociados con el ambiente de trabajo en este tipo de centro.
 
-                Los costos relacionados con el entorno de un centro de desarrollo de software pequeño pueden fluctuar debido a diversos factores, incluyendo el tamaño del local, su ubicación geográfica, los requisitos de                 infraestructura y las necesidades particulares del equipo de desarrollo. A continuación, se presentan algunos de los gastos típicos asociados con el ambiente de trabajo en este tipo de centro.
+![./media/media/costoambiente.jpg](./media/media/costoambiente.jpg)
 
-        4.2.4. Costos de personal
+---
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
+### 4.2.4. Costos de Personal
 
-                No se considerará personal para la operación y funcionamiento del sistema.
+Según el portal Indeed, el sueldo de un programador en Perú en este 2024 es de **S/.9.00 por hora** aproximadamente.  
+A continuación se presenta el cuadro de costos de personal:
 
-                Incluir tabla que muestra los gastos correspondientes al personal.
+![./media/media/costopersonal.jpg](./media/media/costopersonal.jpg)
 
-                Indicar organización y roles. Indicar horario de trabajo del personal.
+---
 
-        4.2.5.  Costos totales del desarrollo del sistema
+### 4.2.5. Costos Totales del Desarrollo del Sistema
 
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+Este cuadro de costos totales nos proporciona una visión integral y detallada de los costos iniciales, costos operativos y de personal que se asignaron para este proyecto del desarrollo del sistema.
+
+#### Cuadro de costos totales:
+
+![./media/media/costototal.jpg](./media/media/costototal.jpg)
+
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
     
