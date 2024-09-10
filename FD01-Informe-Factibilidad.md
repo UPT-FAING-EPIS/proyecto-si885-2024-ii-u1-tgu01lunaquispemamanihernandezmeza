@@ -176,42 +176,62 @@ Conclusión Técnica: La tecnología actual en el campus es adecuada para realiz
     4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
 
         
-Costos del Proyecto:
+## Costos del Proyecto:
 
-Personal: Incluye costos para investigadores, analistas de datos y personal administrativo. Estimación aproximada: $4,000.00.
-Equipos y Software: Aunque la universidad ya posee el hardware y software necesarios, los costos adicionales podrían incluir licencias de software especializado y actualización de equipos si fuera necesario. Estimación aproximada: $2,000 - $5,000.
-Materiales y Otros Recursos: Incluye costos para la recolección de datos, encuestas y otros materiales necesarios para el estudio. Estimación aproximada: $1,000 - $2,000.
-Beneficios Esperados:
+- **Personal**:  
+  Incluye costos para investigadores, analistas de datos y personal administrativo.  
+  **Estimación aproximada**: $4,000.00.
 
-Mejora en la Salud Estudiantil: Identificación de tendencias y prevalencias permitirá implementar intervenciones preventivas efectivas, mejorando la salud y el bienestar de los estudiantes.
-Datos para Políticas: La información recopilada puede apoyar la toma de decisiones para mejorar las políticas de salud en el campus y aumentar la eficiencia en la asignación de recursos.
-Reconocimiento y Financiamiento: Un estudio exitoso puede atraer financiamiento adicional y reconocimiento para la universidad, así como oportunidades para futuras investigaciones.
-Conclusión Económica: La inversión inicial en el proyecto está justificada por los beneficios esperados en términos de salud estudiantil y mejoras en las políticas de salud. El costo total del proyecto se estima entre $13,000 y $22,000, y se prevé que el retorno en términos de beneficios para la comunidad universitaria y potenciales ingresos futuros justifica esta inversión.
+- **Equipos y Software**:  
+  Aunque la universidad ya posee el hardware y software necesarios, los costos adicionales podrían incluir licencias de software especializado y actualización de equipos si fuera necesario.  
+  **Estimación aproximada**: $2,000 - $5,000.
 
-Definir los siguientes costos:
+- **Materiales y Otros Recursos**:  
+  Incluye costos para la recolección de datos, encuestas y otros materiales necesarios para el estudio.  
+  **Estimación aproximada**: $1,000 - $2,000.
+
+---
+
+## Beneficios Esperados:
+
+- **Mejora en la Salud Estudiantil**:  
+  Identificación de tendencias y prevalencias que permitirá implementar intervenciones preventivas efectivas, mejorando la salud y el bienestar de los estudiantes.
+
+- **Datos para Políticas**:  
+  La información recopilada puede apoyar la toma de decisiones para mejorar las políticas de salud en el campus y aumentar la eficiencia en la asignación de recursos.
+
+- **Reconocimiento y Financiamiento**:  
+  Un estudio exitoso puede atraer financiamiento adicional y reconocimiento para la universidad, así como oportunidades para futuras investigaciones.
+
+---
+
+## Conclusión Económica:
+
+La inversión inicial en el proyecto está justificada por los beneficios esperados en términos de salud estudiantil y mejoras en las políticas de salud. El costo total del proyecto se estima entre **$13,000** y **$22,000**, y se prevé que el retorno en términos de beneficios para la comunidad universitaria y potenciales ingresos futuros justifica esta inversión.
 
 
       
-        4.2.1. Costos Generales
+### 4.2.1. Costos Generales
 
-             
-            En la factibilidad económica se considera el siguiente plan a ser analizado:
-            Consultando el portal web Indeed que el sueldo promedio de un profesional en el área de sistemas es de S/ 2,800 por mes en Perú. 
+En la factibilidad económica se considera el siguiente plan a ser analizado:
+
+Consultando el portal web **Indeed**, se estima que el sueldo promedio de un profesional en el área de sistemas es de **S/ 2,800** por mes en Perú.
 
 ![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
-                 PAGO INICIAL: 	S/4,732.00 (Primer mes)  
-                 PAGO MENSUAL:	S/4,740.50  
-                 VALOR DE SALVAMENTO:	S/ 792.00  
-                 TIEMPO ESTIMADO:     	6 meses  
-                 TASA DE INTERÉS:		7.8%
 
+- **PAGO INICIAL**: S/ 4,732.00 (Primer mes)
+- **PAGO MENSUAL**: S/ 4,740.50
+- **VALOR DE SALVAMENTO**: S/ 792.00
+- **TIEMPO ESTIMADO**: 6 meses
+- **TASA DE INTERÉS**: 7.8%
 
+---
 
-        4.2.2. Costos operativos durante el desarrollo 
-        
-              De igual manera según lo recopilado del portal Indeep  calculamos el sueldo de los programadores y diseñadores y esto multiplicado por los 6 meses en lo que está proyectado el desarrollo de nuestro trabajo.
+### 4.2.2. Costos Operativos durante el Desarrollo
+
+De igual manera, según lo recopilado del portal **Indeed**, calculamos el sueldo de los programadores y diseñadores, multiplicado por los 6 meses que está proyectado el desarrollo de nuestro trabajo.
+
 ![./media/media/costooperativo.jpg](./media/costooperativo.jpg)
-            Cuadro de costos de personal:
 
 
         4.2.3. Costos del ambiente
