@@ -216,7 +216,7 @@ Definir los siguientes costos:
 
         4.2.3. Costos del ambiente
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+                Los costos relacionados con el entorno de un centro de desarrollo de software pequeño pueden fluctuar debido a diversos factores, incluyendo el tamaño del local, su ubicación geográfica, los requisitos de                 infraestructura y las necesidades particulares del equipo de desarrollo. A continuación, se presentan algunos de los gastos típicos asociados con el ambiente de trabajo en este tipo de centro.
 
         4.2.4. Costos de personal
 
