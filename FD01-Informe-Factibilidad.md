@@ -177,11 +177,22 @@ Versión *1.0*
             Consultando el portal web Indeed que el sueldo promedio de un profesional en el área de sistemas es de S/ 2,800 por mes en Perú. 
 
     ![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
+                 PAGO INICIAL: 	S/4,732.00 (Primer mes)  
+                 PAGO MENSUAL:	S/4,740.50  
+                 VALOR DE SALVAMENTO:	S/ 792.00  
+                 TIEMPO ESTIMADO:     	6 meses  
+                 TASA DE INTERÉS:		7.8%
+
 
 
         4.2.2. Costos operativos durante el desarrollo 
         
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
+              De igual manera según lo recopilado del portal Indeep  calculamos el sueldo de los programadores y diseñadores y esto multiplicado por los 6 meses en lo que está proyectado el desarrollo de nuestro trabajo.
+![./media/media/costooperativo.jpg](./media/costooperativo.jpg)
+            Cuadro de costos de personal:
+
+
+
 
         4.2.3. Costos del ambiente
 
