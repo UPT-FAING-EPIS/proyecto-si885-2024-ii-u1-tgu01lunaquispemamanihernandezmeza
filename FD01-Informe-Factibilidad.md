@@ -95,8 +95,10 @@ Versión *1.0*
 
 
     1.4. Objetivos
+   
         1.4.1 Objetivo general
     Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el fin de formular recomendaciones para mejorar las políticas de salud y prevención en el campus.
+   
         1.4.2 Objetivos Específicos
            
     Determinar la prevalencia de enfermedades respiratorias entre los estudiantes y su relación con factores como la densidad en espacios comunes y los cambios estacionales.
