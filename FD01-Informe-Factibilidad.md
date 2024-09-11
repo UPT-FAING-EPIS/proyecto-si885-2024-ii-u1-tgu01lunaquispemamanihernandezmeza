@@ -85,30 +85,34 @@ Versión *1.0*
 
     1.1. Nombre del proyecto
    
-        Impacto de la Actividad Física en la Salud Estudiantil
+    Proyecto Prevalencia de Enfermedades en el Campus
     1.2. Duración del proyecto
    
-        La duracion del proyecto esta planificado para 6 meses
+    La duracion del proyecto esta planificado para 6 meses
     1.3. Descripción
    
-        Este proyecto tiene como objetivo investigar cómo la actividad física regular influye en la salud mental y el bienestar general de los estudiantes universitarios. Dado el contexto universitario, donde los estudiantes enfrentan múltiples desafíos académicos y personales, es fundamental entender cómo el ejercicio puede actuar como un factor de mitigación frente al estrés, la ansiedad y otros problemas de salud mental. El estudio analizará la relación entre los niveles de actividad física y diversos indicadores de salud mental, como el estrés, la ansiedad y la depresión. La importancia radica en proporcionar datos basados en evidencia para fomentar la integración de programas de ejercicio físico dentro del entorno universitario, mejorando así el bienestar integral de los estudiantes.
+    Este proyecto tiene como objetivo investigar cómo las enfermedades respiratorias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. El estudio analizará la relación entre la incidencia de enfermedades respiratorias y diversos factores, como la densidad en espacios comunes, los cambios estacionales, y la efectividad de las políticas de salud existentes. La importancia radica en proporcionar datos basados en evidencia para desarrollar estrategias de prevención y mejorar la salud pública en el campus, contribuyendo a un entorno educativo más saludable y eficiente.
 
 
     1.4. Objetivos
-
+   
         1.4.1 Objetivo general
-           Evaluar el impacto de la actividad física regular en la salud mental y el bienestar general de los estudiantes universitarios para formular recomendaciones prácticas que promuevan un entorno saludable en el campus.
-
+    Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el fin de formular recomendaciones para mejorar las políticas de salud y prevención en el campus.
+   
         1.4.2 Objetivos Específicos
-            Determinar los niveles de actividad física entre los estudiantes universitarios y su relación con indicadores de salud mental.
-
-            Lo que se va a lograr: Identificar el grado de participación en actividades físicas y cómo estos niveles se correlacionan con medidas de bienestar mental.
-            Analizar el efecto del ejercicio físico en la reducción del estrés, la ansiedad y la depresión en la población estudiantil.
-            Lo que se va a lograr: Proporcionar información sobre cómo el ejercicio puede influir positivamente en la salud mental, identificando posibles beneficios.
-            Comparar la salud mental de los estudiantes que participan en actividades físicas estructuradas frente a aquellos que realizan ejercicio de forma informal.
-            Lo que se va a lograr: Evaluar si la estructura y la regularidad del ejercicio tienen un impacto diferente en la salud mental en comparación con la actividad física no estructurada.
-            Desarrollar recomendaciones para la universidad sobre la implementación de programas de actividad física como parte de las estrategias de bienestar estudiantil.
-            Lo que se va a lograr: Ofrecer sugerencias basadas en los hallazgos para ayudar a la universidad a integrar efectivamente el ejercicio físico en sus programas de salud estudiantil.
+           
+    Determinar la prevalencia de enfermedades respiratorias entre los estudiantes y su relación con factores como la densidad en espacios comunes y los cambios estacionales.
+    
+    Lo que se va a lograr: Identificar patrones en la incidencia de enfermedades respiratorias y cómo estos patrones están relacionados con diferentes variables del entorno universitario.
+    Analizar el efecto de la densidad en áreas comunes y las prácticas de prevención en la reducción de la incidencia de enfermedades respiratorias.
+    
+    Lo que se va a lograr: Proporcionar información sobre cómo la infraestructura del campus y las medidas preventivas afectan la prevalencia de enfermedades respiratorias, identificando posibles áreas de mejora.
+    Comparar la incidencia de enfermedades respiratorias entre estudiantes de diferentes facultades y modalidades de estudio (presencial, online, híbrida).
+    
+    Lo que se va a lograr: Evaluar si hay diferencias significativas en la prevalencia de enfermedades respiratorias según la facultad o modalidad de estudio, lo cual puede revelar factores específicos de riesgo.
+    Desarrollar recomendaciones para la universidad sobre estrategias de prevención y políticas de salud basadas en los hallazgos del análisis.
+    
+    Lo que se va a lograr: Ofrecer sugerencias basadas en los datos para ayudar a la universidad a implementar medidas efectivas que reduzcan la incidencia de enfermedades respiratorias y mejoren la salud estudiantil en el campus.
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
@@ -134,7 +138,7 @@ Versión *1.0*
 
     3.1. Planteamiento del problema
 
-            La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
+    La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
 
 
     3.2. Consideraciones de hardware y software
