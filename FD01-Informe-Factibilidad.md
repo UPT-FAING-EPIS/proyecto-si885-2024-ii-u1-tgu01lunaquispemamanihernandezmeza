@@ -219,8 +219,8 @@ Consultando el portal web **Indeed**, se estima que el sueldo promedio de un pro
 
 ![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
 
-- **PAGO INICIAL**: S/ 4,732.00 (Primer mes)
-- **PAGO MENSUAL**: S/ 4,740.50
+- **PAGO INICIAL**: S/ 1,941.82 (Primer mes)
+- **PAGO MENSUAL**: S/ 1,941.82
 - **VALOR DE SALVAMENTO**: S/ 792.00
 - **TIEMPO ESTIMADO**: 6 meses
 - **TASA DE INTERÉS**: 7.8%
