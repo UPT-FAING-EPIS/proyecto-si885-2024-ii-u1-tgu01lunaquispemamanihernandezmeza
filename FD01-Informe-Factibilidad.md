@@ -139,16 +139,27 @@ Versión *1.0*
     3.1. Planteamiento del problema
 
     La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
-
-
+    
     3.2. Consideraciones de hardware y software
 
     Hardware:
-            Para utilizar Power BI Desktop y Power BI Service de manera eficiente, se recomienda contar con computadoras o laptops con al menos un procesador Intel Core i5, 8 GB de RAM, y un SSD de 256 GB. Una pantalla Full HD también es recomendable para una visualización óptima.
-    
+
+    Para asegurar un desempeño óptimo en el análisis y visualización de datos utilizando Power BI, se recomienda el siguiente equipo:
+
+        Computadoras o Laptops:
+    Procesador: Intel Core i5 o superior, para manejar eficientemente los procesos de análisis y visualización de grandes volúmenes de datos.
+    Memoria RAM: Mínimo de 8 GB, para permitir el funcionamiento fluido de Power BI y otras aplicaciones simultáneas.
+    Almacenamiento: Unidad de estado sólido (SSD) de al menos 256 GB, para un acceso rápido a los datos y una mayor velocidad en el procesamiento.
+    Pantalla: Resolución Full HD (1920x1080 píxeles) recomendada, para una visualización clara y detallada de dashboards e informes.
+
     Software:
-            Power BI Desktop: Instalación local gratuita para el diseño y análisis de informes.
-    Power BI Service: Plataforma en la nube para compartir y colaborar en informes, requiere suscripción a Power BI Pro o Premium para funciones avanzadas.
+
+    Para el manejo y análisis de datos en Power BI, se requiere el siguiente software:
+
+        Power BI Desktop:
+
+    Descripción: Aplicación gratuita que permite el diseño, modelado y análisis de informes de datos. Ideal para realizar análisis detallados y crear visualizaciones interactivas localmente.
+    Requisitos de Instalación: Compatible con versiones recientes de Windows (Windows 10 o superior).
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
