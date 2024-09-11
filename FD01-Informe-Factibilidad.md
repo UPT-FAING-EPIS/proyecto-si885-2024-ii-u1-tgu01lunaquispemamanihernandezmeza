@@ -138,7 +138,7 @@ Versión *1.0*
 
     3.1. Planteamiento del problema
 
-            La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
+    La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
 
 
     3.2. Consideraciones de hardware y software
