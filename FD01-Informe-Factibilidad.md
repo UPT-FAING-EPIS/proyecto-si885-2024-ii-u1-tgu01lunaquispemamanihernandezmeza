@@ -73,7 +73,7 @@ Docente: Patrick Cuadros Quiroga
 **Proyecto Prevalencia de Enfermedades en el Campus**
 
 #### 1.2 Duración del Proyecto
-La duración del proyecto está planificada para 6 meses.
+La duración del proyecto está planificada para 3 meses.
 
 #### 1.3 Descripción
 Este proyecto tiene como objetivo investigar cómo las enfermedades respiratorias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. 
@@ -95,19 +95,19 @@ Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de l
 
 ### 2. Riesgos
 - **Baja tasa de participación**: Es posible que no todos los estudiantes participen en el estudio, lo que puede afectar la representatividad de los resultados.  
-  **Mitigación**: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
+- **Mitigación**: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
 
 - **Recopilación inexacta de datos**: La calidad de los datos puede verse afectada por errores en la recolección o la autoevaluación de los participantes.  
-  **Mitigación**: Utilizar métodos de recolección validados y realizar pruebas preliminares para asegurar la precisión y confiabilidad de los datos.
+- **Mitigación**: Utilizar métodos de recolección validados y realizar pruebas preliminares para asegurar la precisión y confiabilidad de los datos.
 
 - **Factores externos que afectan la salud mental**: Eventos externos o cambios en el entorno pueden influir en los resultados del estudio.  
-  **Mitigación**: Controlar y registrar estos factores en el análisis para ajustar los resultados en consecuencia.
+- **Mitigación**: Controlar y registrar estos factores en el análisis para ajustar los resultados en consecuencia.
 
 - **Problemas éticos y de privacidad**: Asegurar la confidencialidad y el consentimiento informado de los participantes es crucial.  
-  **Mitigación**: Implementar protocolos rigurosos para proteger la privacidad de los participantes y cumplir con las normas éticas.
+- **Mitigación**: Implementar protocolos rigurosos para proteger la privacidad de los participantes y cumplir con las normas éticas.
 
 - **Limitaciones de recursos**: El financiamiento o los recursos disponibles podrían ser insuficientes para llevar a cabo el proyecto de manera óptima.  
-  **Mitigación**: Buscar financiamiento adicional, colaboraciones con otras instituciones o ajustes en el alcance del proyecto para adaptarse a los recursos disponibles.
+- **Mitigación**: Buscar financiamiento adicional, colaboraciones con otras instituciones o ajustes en el alcance del proyecto para adaptarse a los recursos disponibles.
 
 ---
 
@@ -119,11 +119,14 @@ La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar 
 #### 3.2 Consideraciones de Hardware y Software
 
 **Hardware:**
-- **Computadoras o Laptops**: 
-  - Procesador: Intel Core i5 o superior.
-  - Memoria RAM: Mínimo de 8 GB.
-  - Almacenamiento: SSD de al menos 256 GB.
-  - Pantalla: Resolución Full HD (1920x1080 píxeles) recomendada.
+- **Computadoras o Laptops**:
+  
+| Especificación            | Requerimiento                      |
+|---------------------------|------------------------------------|
+| Procesador                | Intel Core i5 o superior           |
+| Memoria RAM               | Mínimo de 8 GB                     |
+| Almacenamiento            | SSD de al menos 256 GB            |
+| Pantalla                  | Resolución Full HD (1920x1080 píxeles) |
 
 **Software:**
 - **Power BI Desktop**: 
@@ -148,9 +151,11 @@ El estudio de factibilidad tiene como objetivo determinar si el análisis de la 
 #### 4.2 Factibilidad Económica
 
 **Costos del Proyecto:**
-- **Personal**: $4,000.00.
-- **Equipos y Software**: $2,000 - $5,000.
-- **Materiales y Otros Recursos**: $1,000 - $2,000.
+| Concepto                    | Costo Estimado                   |
+|-----------------------------|----------------------------------|
+| Personal                    | $4,000.00                        |
+| Equipos y Software          | $2,000 - $5,000                 |
+| Materiales y Otros Recursos  | $1,000 - $2,000                 |
 
 **Beneficios Esperados:**
 - **Mejora en la Salud Estudiantil**: Identificación de tendencias que permitirá implementar intervenciones preventivas.
