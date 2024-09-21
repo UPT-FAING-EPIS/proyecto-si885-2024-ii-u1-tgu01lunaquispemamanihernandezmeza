@@ -160,137 +160,103 @@ El estudio de factibilidad tiene como objetivo determinar si el análisis de la 
 **Conclusión Económica**: La inversión inicial está justificada por los beneficios esperados. El costo total del proyecto se estima entre **$13,000** y **$22,000**.
 
 
-      
-### 4.2.1. Costos Generales
 
-En la factibilidad económica se considera el siguiente plan a ser analizado:
 
-Consultando el portal web **Indeed**, se estima que el sueldo promedio de un profesional en el área de sistemas es de **S/ 2,800** por mes en Perú.
 
-![./media/media/costogeneral.jpg](./media/costogeneral.jpg)
+##### 4.2.1 Costos Generales
 
-- **PAGO INICIAL**: S/ 1,941.82 (Primer mes)
-- **PAGO MENSUAL**: S/ 1,941.82
-- **VALOR DE SALVAMENTO**: S/ 792.00
-- **TIEMPO ESTIMADO**: 6 meses
-- **TASA DE INTERÉS**: 7.8%
+| Concepto                  | Monto         |
+|---------------------------|---------------|
+| Sueldo promedio           | S/ 2,800     |
+| PAGO INICIAL              | S/ 1,941.82  |
+| PAGO MENSUAL              | S/ 1,941.82  |
+| VALOR DE SALVAMENTO       | S/ 792.00    |
+| TIEMPO ESTIMADO           | 6 meses      |
+| TASA DE INTERÉS           | 7.8%         |
 
----
-
-### 4.2.2. Costos Operativos durante el Desarrollo
-
-De igual manera, según lo recopilado del portal **Indeed**, calculamos el sueldo de los programadores y diseñadores, multiplicado por los 6 meses que está proyectado el desarrollo de nuestro trabajo.
-
-![./media/media/costooperativo.jpg](./media/costooperativo.jpg)
-
-### 4.2.3. Costos del Ambiente
-
-Los costos relacionados con el entorno de un centro de desarrollo de software pequeño pueden fluctuar debido a diversos factores, incluyendo el tamaño del local, su ubicación geográfica, los requisitos de infraestructura y las necesidades particulares del equipo de desarrollo. A continuación, se presentan algunos de los gastos típicos asociados con el ambiente de trabajo en este tipo de centro.
-
-![./media/media/costoambiente.jpg](./media/media/costoambiente.jpg)
+![Costos Generales](./media/costogeneral.jpg)
 
 ---
 
-### 4.2.4. Costos de Personal
+##### 4.2.2 Costos Operativos durante el Desarrollo
+Costos asociados con sueldos de programadores y diseñadores durante los 6 meses.
 
-Según el portal Indeed, el sueldo de un programador en Perú en este 2024 es de **S/.9.00 por hora** aproximadamente.  
-A continuación se presenta el cuadro de costos de personal:
-
-![./media/media/costopersonal.jpg](./media/media/costopersonal.jpg)
+![Costos Operativos](./media/costooperativo.jpg)
 
 ---
 
-### 4.2.5. Costos Totales del Desarrollo del Sistema
+##### 4.2.3 Costos del Ambiente
+Costos relacionados con el entorno de un centro de desarrollo de software.
 
-Este cuadro de costos totales nos proporciona una visión integral y detallada de los costos iniciales, costos operativos y de personal que se asignaron para este proyecto del desarrollo del sistema.
+![Costos del Ambiente](./media/costoambiente.jpg)
 
-#### Cuadro de costos totales:
+---
 
-![./media/media/costototal.jpg](./media/media/costototal.jpg)
+##### 4.2.4 Costos de Personal
+- Sueldo de un programador en 2024: **S/.9.00 por hora**.
 
+![Costos de Personal](./media/costopersonal.jpg)
 
-    4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
-    
-El proyecto en cuestión es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI. Este sistema tiene como objetivo principal mejorar la gestión de la información clínica y administrativa del policlínico, facilitando el acceso a datos relevantes, generando informes detallados y apoyando en la toma de decisiones.
+---
 
-    4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
+##### 4.2.5 Costos Totales del Desarrollo del Sistema
+Resumen de costos iniciales, operativos y de personal.
 
-      El proyecto es un sistema de base de datos para el Policlínico de la Universidad Privada de Tacna, desarrollado en Power BI, con el objetivo de mejorar la gestión de la información clínica y administrativa.
-Evaluación Legal:
-Cumplimiento de Normativas: Asegúrate de que el sistema cumple con las leyes locales y nacionales relacionadas con la protección de datos personales, como la Ley de Protección de Datos Personales en Perú.
-Regulaciones de Salud: Verifica que el sistema cumple con las regulaciones específicas del sector salud para la gestión y almacenamiento de datos clínicos.
-Licencias de Software: Confirma que el uso de Power BI y otros componentes del sistema cumplan con las licencias y acuerdos de uso
+![Costos Totales](./media/costototal.jpg)
 
-    4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
+---
 
-       El proyecto del sistema de base de datos para el Policlínico de la Universidad Privada de Tacna tiene como objetivo mejorar la eficiencia en la gestión de la información y apoyar en la toma de decisiones.
-Evaluación Social:
-Clima Político: Asegúrate de que no existan nuevas regulaciones o cambios políticos que puedan afectar el uso de tecnologías de datos en el sector salud.
-Código de Conducta y Ética: Verifica que el sistema cumpla con los códigos de conducta y prácticas éticas, garantizando la confidencialidad y privacidad de los datos de los pacientes.
-Aceptación del Usuario: Asegura la aceptación del sistema entre el personal médico y administrativo mediante una adecuada capacitación para facilitar la adaptación al nuevo sistema.
+#### 4.3 Factibilidad Operativa
+El proyecto tiene como objetivo mejorar la gestión de la información clínica y administrativa del policlínico.
 
-    4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
+#### 4.4 Factibilidad Legal
+- **Cumplimiento de Normativas**: Asegurarse de que el sistema cumple con las leyes de protección de datos y regulaciones del sector salud.
 
- El sistema está diseñado para mejorar la gestión de la información y tiene un impacto ambiental mínimo.
-Evaluación Ambiental:
-Impacto Directo: El impacto ambiental del sistema es bajo, principalmente relacionado con el consumo de energía de los servidores y equipos. Se recomienda utilizar fuentes de energía renovable para minimizar este impacto.
-Uso de Recursos: Asegúrate de que el hardware utilizado sea eficiente en términos de energía y que los equipos antiguos se dispongan de manera adecuada.
-Residuos Electrónicos: Planifica la disposición y reciclaje adecuado de equipos electrónicos obsoletos para reducir residuos y minimizar el impacto ambiental.
+#### 4.5 Factibilidad Social
+- **Clima Político**: Verificar que no existan nuevas regulaciones que afecten el uso de tecnologías de datos.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+#### 4.6 Factibilidad Ambiental
+- **Impacto Directo**: El sistema tiene un impacto ambiental mínimo. Se recomienda el uso de fuentes de energía renovable.
 
-5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
+---
 
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
+### 5. Análisis Financiero
+El análisis se ocupa de los ingresos y gastos asociados al proyecto.
 
-    5.1. Justificación de la Inversión
+#### 5.1 Justificación de la Inversión
 
-        5.1.1. Beneficios del Proyecto
+##### 5.1.1 Beneficios del Proyecto
+- Mejora en la eficiencia del área bajo estudio.
+- Cumplimiento de requerimientos gubernamentales.
+- Toma acertada de decisiones.
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
+##### 5.1.2 Criterios de Inversión
+**Costos Totales del Proyecto:**
 
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
-        
-        5.1.2. Criterios de Inversión
-            Costos Totales del Proyecto:
 ![Valor Actual Neto](media/facti1.png)
 
-            Calculo de Flujo de Caja Neto durante el tiempo del Proyecto:
-![Valor Actual Neto](media/facti2.png)
+**Flujo de Caja Neto durante el tiempo del Proyecto:**
 
+![Flujo de Caja Neto](media/facti2.png)
 
-            5.1.2.1. Relación Beneficio/Costo (B/C)
-                El Beneficio al Ser 0.02 no aporta ningun Beneficio a la Empresa sin Embargo Ayudara a prevenir futuras crisis de Problemas Fisicos o  y Psycologicos
-![Valor Actual Neto](media/facti3.png)
+###### 5.1.2.1 Relación Beneficio/Costo (B/C)
+El beneficio al ser 0.02 no aporta ningún beneficio inmediato, pero ayudará a prevenir futuras crisis.
 
-            5.1.2.2. Valor Actual Neto (VAN)
-                Gasto del Proyecto llevado a la Actualidad
+![Relación Beneficio/Costo](media/facti3.png)
+
+###### 5.1.2.2 Valor Actual Neto (VAN)
+Gasto del Proyecto llevado a la actualidad.
+
 ![Valor Actual Neto](media/facti4.png)
 
-            5.1.2.3 Tasa Interna de Retorno (TIR)*
-                No existe TIR
+###### 5.1.2.3 Tasa Interna de Retorno (TIR)
+No existe TIR.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+---
 
-6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
+### 6. Conclusiones
+Los resultados del análisis de factibilidad indican que el proyecto es viable y factible.
 
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
+---
+
+**Referencias**  
