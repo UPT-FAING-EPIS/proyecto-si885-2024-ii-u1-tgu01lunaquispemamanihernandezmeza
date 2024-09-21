@@ -1,228 +1,160 @@
 <center>
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
 
-![./media/media/image1.png](./media/logo-upt.png)
+![Logo UPT](./media/logo-upt.png)
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+**UNIVERSIDAD PRIVADA DE TACNA**  
+**FACULTAD DE INGENIERIA**  
+**Escuela Profesional de Ingeniería de Sistemas**  
 
-**FACULTAD DE INGENIERIA**
+**Proyecto: *Proyecto Prevalencia de Enfermedades en el Campus***  
 
-**Escuela Profesional de Ingeniería de Sistemas**
+Curso: *Inteligencia de Negocios*  
+Docente: Patrick Cuadros Quiroga  
 
-**Proyecto * Proyecto Prevalencia de Enfermedades en el Campus***
+**Integrantes:**  
+***Meza Noalcca Jean Marco (2021071087)***  
+***Luna Juárez Juan Brendon (2020068762)***  
+***Elvis Mamani Valdivia (2020068763)***  
+***Cristian Quispe Levano (2018000590)***  
+***Angel Hernandez Cruz (2021000000)***  
 
-Curso: *Inteligencia de Negocios*
+**Tacna – Perú**  
+**2024**
 
-Docente: Patrick Cuadros Quiroga
-
-Integrantes:
-
-***Meza Noalcca Jean Marco     (2021071087)***
-
-***Luna Juárez Juan Brendon		(2020068762)***
-
-***Elvis Mamani Valdivia		(2020068763)***
-
-***Cristian Quispe Levano 		(2018000590)***
-
-***Angel Hernandez Cruz (2021000000)***
-
-**Tacna – Perú**
-
-***2024***
-
-**  
-**
 </center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-Sistema de Evaluación de la Incidencia de Enfermedades en el Entorno Estudiantil
-
-Informe de Factibilidad
-
-Versión *1.0*
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-# **INDICE GENERAL**
-
-[1. Descripción del Proyecto](#_Toc52661346)
-
-[2. Riesgos](#_Toc52661347)
-
-[3. Análisis de la Situación actual](#_Toc52661348)
-
-[4. Estudio de Factibilidad](#_Toc52661349)
-
-[4.1 Factibilidad Técnica](#_Toc52661350)
-
-[4.2 Factibilidad económica](#_Toc52661351)
-
-[4.3 Factibilidad Operativa](#_Toc52661352)
-
-[4.4 Factibilidad Legal](#_Toc52661353)
-
-[4.5 Factibilidad Social](#_Toc52661354)
-
-[4.6 Factibilidad Ambiental](#_Toc52661355)
-
-[5. Análisis Financiero](#_Toc52661356)
-
-[6. Conclusiones](#_Toc52661357)
-
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-**<u>Informe de Factibilidad</u>**
-
-1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
-
-    1.1. Nombre del proyecto
-   
-    Proyecto Prevalencia de Enfermedades en el Campus
-    1.2. Duración del proyecto
-   
-    La duracion del proyecto esta planificado para 6 meses
-    1.3. Descripción
-   
-    Este proyecto tiene como objetivo investigar cómo las enfermedades respiratorias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. El estudio analizará la relación entre la incidencia de enfermedades respiratorias y diversos factores, como la densidad en espacios comunes, los cambios estacionales, y la efectividad de las políticas de salud existentes. La importancia radica en proporcionar datos basados en evidencia para desarrollar estrategias de prevención y mejorar la salud pública en el campus, contribuyendo a un entorno educativo más saludable y eficiente.
-
-
-    1.4. Objetivos
-   
-        1.4.1 Objetivo general
-    Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el fin de formular recomendaciones para mejorar las políticas de salud y prevención en el campus.
-   
-        1.4.2 Objetivos Específicos
-           
-    Determinar la prevalencia de enfermedades respiratorias entre los estudiantes y su relación con factores como la densidad en espacios comunes y los cambios estacionales.
-    
-    Lo que se va a lograr: Identificar patrones en la incidencia de enfermedades respiratorias y cómo estos patrones están relacionados con diferentes variables del entorno universitario.
-    Analizar el efecto de la densidad en áreas comunes y las prácticas de prevención en la reducción de la incidencia de enfermedades respiratorias.
-    
-    Lo que se va a lograr: Proporcionar información sobre cómo la infraestructura del campus y las medidas preventivas afectan la prevalencia de enfermedades respiratorias, identificando posibles áreas de mejora.
-    Comparar la incidencia de enfermedades respiratorias entre estudiantes de diferentes facultades y modalidades de estudio (presencial, online, híbrida).
-    
-    Lo que se va a lograr: Evaluar si hay diferencias significativas en la prevalencia de enfermedades respiratorias según la facultad o modalidad de estudio, lo cual puede revelar factores específicos de riesgo.
-    Desarrollar recomendaciones para la universidad sobre estrategias de prevención y políticas de salud basadas en los hallazgos del análisis.
-    
-    Lo que se va a lograr: Ofrecer sugerencias basadas en los datos para ayudar a la universidad a implementar medidas efectivas que reduzcan la incidencia de enfermedades respiratorias y mejoren la salud estudiantil en el campus.
-
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
-   
-    Baja tasa de participación: Es posible que no todos los estudiantes participen en el estudio, lo que puede afectar la representatividad de los resultados.
-    Mitigación: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
-    Recopilación inexacta de datos: La calidad de los datos puede verse afectada por errores en la recolección o la autoevaluación de los participantes.
-    Mitigación: Utilizar métodos de recolección validados y realizar pruebas preliminares para asegurar la precisión y confiabilidad de los datos.
-    Factores externos que afectan la salud mental: Eventos externos o cambios en el entorno pueden influir en los resultados del estudio.
-    Mitigación: Controlar y registrar estos factores en el análisis para ajustar los resultados en consecuencia.
-    Problemas éticos y de privacidad: Asegurar la confidencialidad y el consentimiento informado de los participantes es crucial.
-    Mitigación: Implementar protocolos rigurosos para proteger la privacidad de los participantes y cumplir con las normas éticas.
-    Limitaciones de recursos: El financiamiento o los recursos disponibles podrían ser insuficientes para llevar a cabo el proyecto de manera óptima.
-    Mitigación: Buscar financiamiento adicional, colaboraciones con otras instituciones o ajustes en el alcance del proyecto para adaptarse a los recursos disponibles.
-    Estos detalles te proporcionarán una estructura clara para tu informe de factibilidad y te ayudarán a asegurar que el proyecto esté bien planificado y preparado para abordar los posibles desafíos.
-
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
-
-    3.1. Planteamiento del problema
-
-    La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión que afectan a la población universitaria. En respuesta, se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
-    
-    3.2. Consideraciones de hardware y software
-
-    Hardware:
-
-    Para asegurar un desempeño óptimo en el análisis y visualización de datos utilizando Power BI, se recomienda el siguiente equipo:
-
-        Computadoras o Laptops:
-    Procesador: Intel Core i5 o superior, para manejar eficientemente los procesos de análisis y visualización de grandes volúmenes de datos.
-    Memoria RAM: Mínimo de 8 GB, para permitir el funcionamiento fluido de Power BI y otras aplicaciones simultáneas.
-    Almacenamiento: Unidad de estado sólido (SSD) de al menos 256 GB, para un acceso rápido a los datos y una mayor velocidad en el procesamiento.
-    Pantalla: Resolución Full HD (1920x1080 píxeles) recomendada, para una visualización clara y detallada de dashboards e informes.
-
-    Software:
-
-    Para el manejo y análisis de datos en Power BI, se requiere el siguiente software:
-
-        Power BI Desktop:
-
-    Descripción: Aplicación gratuita que permite el diseño, modelado y análisis de informes de datos. Ideal para realizar análisis detallados y crear visualizaciones interactivas localmente.
-    Requisitos de Instalación: Compatible con versiones recientes de Windows (Windows 10 o superior).
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
-
-    El estudio de factibilidad tiene como objetivo determinar si el análisis de la prevalencia de enfermedades comunes entre estudiantes es viable en términos de recursos técnicos, económicos y organizativos. Se busca asegurar que el proyecto pueda ser realizado con éxito, maximizando los beneficios y minimizando los riesgos. Los resultados esperados incluyen una evaluación positiva de los recursos disponibles, la identificación de posibles desafíos y la confirmación de la viabilidad económica del proyecto.
-
-    4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
-
-        
-Hardware:
-
-Equipos de Computación: Los ordenadores del campus tienen la capacidad necesaria para manejar el análisis de datos, con especificaciones adecuadas para ejecutar software estadístico y de análisis de datos.
-Servidores: La universidad dispone de servidores con suficiente capacidad de almacenamiento y procesamiento para manejar grandes volúmenes de datos de salud y epidemiológicos.
-Software:
-
-Aplicaciones:
-Se utilizarán aplicaciones de análisis estadístico como SPSS o PowerBi para procesar los datos sobre enfermedades.
-Navegadores y Sistemas Operativos: Los navegadores web modernos y los sistemas operativos actuales en los equipos del campus son compatibles con las herramientas de análisis necesarias.
-Infraestructura de Red: La universidad cuenta con una infraestructura de red sólida que permite el acceso a bases de datos y sistemas de análisis sin problemas de conectividad.
-Tecnologías Adicionales:
-
-Dominio e Internet: El campus tiene acceso a dominios seguros y conexiones a Internet adecuadas para la recopilación y el análisis de datos en línea.
-Infraestructura de Red Física: Las redes físicas están bien mantenidas, lo que asegura un acceso eficiente y seguro a los datos necesarios para el estudio.
-Conclusión Técnica: La tecnología actual en el campus es adecuada para realizar el análisis de la prevalencia de enfermedades. No se requieren actualizaciones significativas ni adquisiciones adicionales de hardware o software.
-
-
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
-
-        
-## Costos del Proyecto:
-
-- **Personal**:  
-  Incluye costos para investigadores, analistas de datos y personal administrativo.  
-  **Estimación aproximada**: $4,000.00.
-
-- **Equipos y Software**:  
-  Aunque la universidad ya posee el hardware y software necesarios, los costos adicionales podrían incluir licencias de software especializado y actualización de equipos si fuera necesario.  
-  **Estimación aproximada**: $2,000 - $5,000.
-
-- **Materiales y Otros Recursos**:  
-  Incluye costos para la recolección de datos, encuestas y otros materiales necesarios para el estudio.  
-  **Estimación aproximada**: $1,000 - $2,000.
 
 ---
 
-## Beneficios Esperados:
+## Sistema de Evaluación de la Incidencia de Enfermedades en el Entorno Estudiantil
 
-- **Mejora en la Salud Estudiantil**:  
-  Identificación de tendencias y prevalencias que permitirá implementar intervenciones preventivas efectivas, mejorando la salud y el bienestar de los estudiantes.
+### Informe de Factibilidad
 
-- **Datos para Políticas**:  
-  La información recopilada puede apoyar la toma de decisiones para mejorar las políticas de salud en el campus y aumentar la eficiencia en la asignación de recursos.
+**Versión: *1.0***
 
-- **Reconocimiento y Financiamiento**:  
-  Un estudio exitoso puede atraer financiamiento adicional y reconocimiento para la universidad, así como oportunidades para futuras investigaciones.
+| CONTROL DE VERSIONES  |     |     |     |     |
+|:---------------------:|:---:|:---:|:---:|:---:|
+| Versión              | Hecha por | Revisada por | Aprobada por | Fecha | Motivo |
+| 1.0                  | MPV    | ELV          | ARV        | 10/10/2020 | Versión Original |
 
 ---
 
-## Conclusión Económica:
+# Índice General
 
-La inversión inicial en el proyecto está justificada por los beneficios esperados en términos de salud estudiantil y mejoras en las políticas de salud. El costo total del proyecto se estima entre **$13,000** y **$22,000**, y se prevé que el retorno en términos de beneficios para la comunidad universitaria y potenciales ingresos futuros justifica esta inversión.
+1. [Descripción del Proyecto](#descripcion-del-proyecto)
+   - [1.1 Nombre del Proyecto](#nombre-del-proyecto)
+   - [1.2 Duración del Proyecto](#duracion-del-proyecto)
+   - [1.3 Descripción](#descripcion)
+   - [1.4 Objetivos](#objetivos)
+2. [Riesgos](#riesgos)
+3. [Análisis de la Situación Actual](#analisis-de-la-situacion-actual)
+   - [3.1 Planteamiento del Problema](#planteamiento-del-problema)
+   - [3.2 Consideraciones de Hardware y Software](#consideraciones-de-hardware-y-software)
+4. [Estudio de Factibilidad](#estudio-de-factibilidad)
+   - [4.1 Factibilidad Técnica](#factibilidad-tecnica)
+   - [4.2 Factibilidad Económica](#factibilidad-economica)
+   - [4.3 Factibilidad Operativa](#factibilidad-operativa)
+   - [4.4 Factibilidad Legal](#factibilidad-legal)
+   - [4.5 Factibilidad Social](#factibilidad-social)
+   - [4.6 Factibilidad Ambiental](#factibilidad-ambiental)
+5. [Análisis Financiero](#analisis-financiero)
+6. [Conclusiones](#conclusiones)
+
+---
+
+## Informe de Factibilidad
+
+### 1. Descripción del Proyecto
+
+#### 1.1 Nombre del Proyecto
+**Proyecto Prevalencia de Enfermedades en el Campus**
+
+#### 1.2 Duración del Proyecto
+La duración del proyecto está planificada para 6 meses.
+
+#### 1.3 Descripción
+Este proyecto tiene como objetivo investigar cómo las enfermedades respiratorias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. 
+
+El estudio analizará la relación entre la incidencia de enfermedades respiratorias y diversos factores, como la densidad en espacios comunes, los cambios estacionales, y la efectividad de las políticas de salud existentes. La importancia radica en proporcionar datos basados en evidencia para desarrollar estrategias de prevención y mejorar la salud pública en el campus.
+
+#### 1.4 Objetivos
+
+**Objetivo General**  
+Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el fin de formular recomendaciones para mejorar las políticas de salud y prevención en el campus.
+
+**Objetivos Específicos**  
+- Determinar la prevalencia de enfermedades respiratorias entre los estudiantes y su relación con factores como la densidad en espacios comunes y los cambios estacionales.
+- Analizar el efecto de la densidad en áreas comunes y las prácticas de prevención en la reducción de la incidencia de enfermedades respiratorias.
+- Comparar la incidencia de enfermedades respiratorias entre estudiantes de diferentes facultades y modalidades de estudio (presencial, online, híbrida).
+- Desarrollar recomendaciones para la universidad sobre estrategias de prevención y políticas de salud basadas en los hallazgos del análisis.
+
+---
+
+### 2. Riesgos
+- **Baja tasa de participación**: Es posible que no todos los estudiantes participen en el estudio, lo que puede afectar la representatividad de los resultados.  
+  **Mitigación**: Promover el estudio a través de campañas de comunicación y ofrecer incentivos para aumentar la participación.
+
+- **Recopilación inexacta de datos**: La calidad de los datos puede verse afectada por errores en la recolección o la autoevaluación de los participantes.  
+  **Mitigación**: Utilizar métodos de recolección validados y realizar pruebas preliminares para asegurar la precisión y confiabilidad de los datos.
+
+- **Factores externos que afectan la salud mental**: Eventos externos o cambios en el entorno pueden influir en los resultados del estudio.  
+  **Mitigación**: Controlar y registrar estos factores en el análisis para ajustar los resultados en consecuencia.
+
+- **Problemas éticos y de privacidad**: Asegurar la confidencialidad y el consentimiento informado de los participantes es crucial.  
+  **Mitigación**: Implementar protocolos rigurosos para proteger la privacidad de los participantes y cumplir con las normas éticas.
+
+- **Limitaciones de recursos**: El financiamiento o los recursos disponibles podrían ser insuficientes para llevar a cabo el proyecto de manera óptima.  
+  **Mitigación**: Buscar financiamiento adicional, colaboraciones con otras instituciones o ajustes en el alcance del proyecto para adaptarse a los recursos disponibles.
+
+---
+
+### 3. Análisis de la Situación Actual
+
+#### 3.1 Planteamiento del Problema
+La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión. Se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
+
+#### 3.2 Consideraciones de Hardware y Software
+
+**Hardware:**
+- **Computadoras o Laptops**: 
+  - Procesador: Intel Core i5 o superior.
+  - Memoria RAM: Mínimo de 8 GB.
+  - Almacenamiento: SSD de al menos 256 GB.
+  - Pantalla: Resolución Full HD (1920x1080 píxeles) recomendada.
+
+**Software:**
+- **Power BI Desktop**: 
+  - Aplicación gratuita que permite el diseño, modelado y análisis de informes de datos. Compatible con Windows 10 o superior.
+
+---
+
+### 4. Estudio de Factibilidad
+El estudio de factibilidad tiene como objetivo determinar si el análisis de la prevalencia de enfermedades comunes entre estudiantes es viable en términos de recursos técnicos, económicos y organizativos.
+
+#### 4.1 Factibilidad Técnica
+- **Hardware**:
+  - Equipos de computación adecuados en el campus.
+  - Servidores con capacidad suficiente para manejar grandes volúmenes de datos.
+
+- **Software**:
+  - Aplicaciones como SPSS o Power BI.
+  - Infraestructura de red sólida para acceder a bases de datos y sistemas de análisis.
+
+**Conclusión Técnica**: La tecnología actual en el campus es adecuada para realizar el análisis de la prevalencia de enfermedades.
+
+#### 4.2 Factibilidad Económica
+
+**Costos del Proyecto:**
+- **Personal**: $4,000.00.
+- **Equipos y Software**: $2,000 - $5,000.
+- **Materiales y Otros Recursos**: $1,000 - $2,000.
+
+**Beneficios Esperados:**
+- **Mejora en la Salud Estudiantil**: Identificación de tendencias que permitirá implementar intervenciones preventivas.
+- **Datos para Políticas**: Apoyará la toma de decisiones para mejorar las políticas de salud en el campus.
+- **Reconocimiento y Financiamiento**: Un estudio exitoso puede atraer financiamiento adicional.
+
+**Conclusión Económica**: La inversión inicial está justificada por los beneficios esperados. El costo total del proyecto se estima entre **$13,000** y **$22,000**.
 
 
       
