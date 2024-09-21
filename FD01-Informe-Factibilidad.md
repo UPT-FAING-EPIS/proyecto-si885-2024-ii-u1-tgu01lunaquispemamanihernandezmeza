@@ -35,7 +35,10 @@ Docente: Patrick Cuadros Quiroga
 | CONTROL DE VERSIONES  |     |     |     |     |
 |:---------------------:|:---:|:---:|:---:|:---:|
 | Versión              | Hecha por | Revisada por | Aprobada por | Fecha | Motivo |
-| 1.0                  | MPV    | ELV          | ARV        | 10/10/2020 | Versión Original |
+| 1.0                  | JBL    | ELV          | JMM        | 10/08/2024 | Versión Original |
+| 1.1                  | CLQ    | ELV          | JMM        | 25/08/2020 | Versión Original |
+| 1.2                  | EMV    | JMM          | JBL        | 10/09/2020 | Versión Original |
+| 1.3                  | JMM    | EMV          | CLQ        | 21/09/2020 | Versión Original |
 
 ---
 
