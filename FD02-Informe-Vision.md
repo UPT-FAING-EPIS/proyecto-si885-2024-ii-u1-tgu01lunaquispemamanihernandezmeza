@@ -32,7 +32,7 @@
 
 | Versión | Hecha por | Revisada por | Aprobada por | Fecha       | Motivo             |
 |---------|-----------|--------------|--------------|-------------|--------------------|
-| 1.0     | MPV       | ELV          | ARV          | 10/10/2020  | Versión Original    |
+| 1.4     | JMMN      | JBL          | EMV          | 21/09/2024  | Versión Original    |
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## Documento de Visión
 
-**Versión:** *{1.0}*
+**Versión:** *{1.4}*
 
 ---
 
