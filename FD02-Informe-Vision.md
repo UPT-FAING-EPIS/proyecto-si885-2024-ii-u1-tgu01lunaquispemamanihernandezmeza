@@ -1,7 +1,7 @@
 
 <center>
 
-![Escudo](./media/media/image1.png)
+![Escudo](./media/image1.png)
 
 # UNIVERSIDAD PRIVADA DE TACNA
 
