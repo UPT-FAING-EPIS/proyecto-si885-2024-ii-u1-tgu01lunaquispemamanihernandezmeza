@@ -86,11 +86,12 @@ El estudio analizará la relación entre la incidencia de enfermedades respirato
 Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el objetivo de presentar análisis estadísticos.
 
 **Objetivos Específicos**  
--Calcular el promedio de peso y altura de los estudiantes de la Facultad de Ingeniería que utilizan el tópico de salud.
--Analizar la intervención por género y el promedio de peso registrado el 30 de abril del 2018
--Identificar las fechas con mayor atención médica, desglosadas por facultades y escuelas.
--Realizar un control de las intervenciones dirigidas al público estudiantil masculino.
--Evaluar las intervenciones en estudiantes femeninas, analizando el peso hasta el 31 de diciembre de 2023.
+   -Calcular el promedio de peso y altura de los estudiantes de la Facultad de Ingeniería que utilizan el tópico de salud.
+   
+   -Analizar la intervención por género y el promedio de peso registrado el 30 de abril del 2018
+   -Identificar las fechas con mayor atención médica, desglosadas por facultades y escuelas.
+   -Realizar un control de las intervenciones dirigidas al público estudiantil masculino.
+   -Evaluar las intervenciones en estudiantes femeninas, analizando el peso hasta el 31 de diciembre de 2023.
 
 ---
 
