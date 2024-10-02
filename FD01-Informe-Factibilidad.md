@@ -83,13 +83,14 @@ El estudio analizará la relación entre la incidencia de enfermedades respirato
 #### 1.4 Objetivos
 
 **Objetivo General**  
-Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el fin de formular recomendaciones para mejorar las políticas de salud y prevención en el campus.
+Evaluar la prevalencia de enfermedades entre los estudiantes universitarios de la Universidad Privada de Tacna y su impacto en la salud y el bienestar general, con el objetivo de presentar análisis estadísticos.
 
 **Objetivos Específicos**  
-- Determinar la prevalencia de enfermedades respiratorias entre los estudiantes y su relación con factores como la densidad en espacios comunes y los cambios estacionales.
-- Analizar el efecto de la densidad en áreas comunes y las prácticas de prevención en la reducción de la incidencia de enfermedades respiratorias.
-- Comparar la incidencia de enfermedades respiratorias entre estudiantes de diferentes facultades y modalidades de estudio (presencial, online, híbrida).
-- Desarrollar recomendaciones para la universidad sobre estrategias de prevención y políticas de salud basadas en los hallazgos del análisis.
+-Calcular el promedio de peso y altura de los estudiantes de la Facultad de Ingeniería que utilizan el tópico de salud.
+-Analizar la intervención por género y el promedio de peso registrado el 30 de abril del 2018
+-Identificar las fechas con mayor atención médica, desglosadas por facultades y escuelas.
+-Realizar un control de las intervenciones dirigidas al público estudiantil masculino.
+-Evaluar las intervenciones en estudiantes femeninas, analizando el peso hasta el 31 de diciembre de 2023.
 
 ---
 
