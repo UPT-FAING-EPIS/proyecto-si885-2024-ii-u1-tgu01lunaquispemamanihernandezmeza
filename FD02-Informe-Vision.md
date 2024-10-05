@@ -237,13 +237,31 @@ El "Proyecto Prevalencia de Enfermedades en el Campus" tiene como objetivo anali
 
 ### CONCLUSIONES
 
-_(Aquí deberías incluir las conclusiones que discutimos anteriormente)_
+1. **Aumento de Enfermedades Respiratorias**: El análisis de los datos recopilados durante los últimos cinco años muestra un incremento significativo en la prevalencia de enfermedades respiratorias entre los estudiantes del campus, lo que refleja una necesidad urgente de intervenciones.
+
+2. **Impacto en la Salud y Rendimiento Académico**: La alta incidencia de estas enfermedades no solo afecta la salud individual de los estudiantes, sino que también tiene repercusiones negativas en su rendimiento académico y en la comunidad universitaria en general.
+
+3. **Factores Contribuyentes**: Se han identificado varios factores que contribuyen a la propagación de enfermedades respiratorias en el campus, incluyendo la alta densidad de población en espacios compartidos, falta de información sobre prevención y el estilo de vida de los estudiantes.
+
+4. **Oportunidades de Mejora**: Hay una clara oportunidad para implementar programas de salud preventiva que aborden tanto la educación sobre enfermedades respiratorias como la mejora de las condiciones de salud general en el campus.
 
 ---
 
 ### RECOMENDACIONES
 
-_(Aquí deberías incluir las recomendaciones que discutimos anteriormente)_
+1. **Implementación de Programas de Prevención**: Desarrollar e implementar programas de salud que incluyan talleres sobre prevención de enfermedades respiratorias, promoción de hábitos saludables, y vacunaciones contra la gripe.
+
+2. **Campañas de Concientización**: Diseñar campañas de comunicación que informen a los estudiantes sobre la importancia de la prevención y la detección temprana de enfermedades respiratorias, utilizando plataformas digitales y medios físicos en el campus.
+
+3. **Monitoreo y Evaluación**: Establecer un sistema de monitoreo continuo de la salud estudiantil para evaluar la efectividad de las intervenciones implementadas, ajustando estrategias según los resultados obtenidos.
+
+4. **Colaboración Interdepartamental**: Fomentar la colaboración entre los departamentos de salud, administración y los estudiantes para asegurar un enfoque integral en la gestión de la salud en el campus.
+
+5. **Acceso a Recursos**: Asegurar que todos los estudiantes tengan acceso a recursos de salud, incluyendo consultas médicas, información sobre salud y prevención, y programas de apoyo psicológico.
+
+6. **Formación de Personal**: Capacitar al personal médico y de salud del campus en el manejo de enfermedades respiratorias y en la implementación de programas de salud efectivos.
+
+7. **Promoción de Estilos de Vida Saludables**: Incentivar la práctica de actividades físicas, alimentación saludable y un equilibrio entre el estudio y el tiempo libre, contribuyendo así a un estilo de vida más saludable entre los estudiantes.
 
 ---
 
@@ -257,5 +275,4 @@ _(Aquí deberías incluir la bibliografía correspondiente)_
 
 _(Aquí deberías incluir la webgrafía correspondiente)_
 
----
 
