@@ -5,12 +5,10 @@
 <div style="display: flex; justify-content: space-between;">
 
   <div>
-    ![Descripción 1](media/hoja.jpeg)
+    ![Valor Actual Neto](media/hoja1.jpeg)
     *Título 1*
   </div>
   
-![Valor Actual Neto](media/hoja.jpeg)
-
   <div>
     ![Descripción 2](ruta/de/la/imagen2.jpg)
     *Título 2*
