@@ -8,6 +8,8 @@
     ![Descripción 1](media/hoja.jpeg)
     *Título 1*
   </div>
+  
+![Valor Actual Neto](media/hoja.jpeg)
 
   <div>
     ![Descripción 2](ruta/de/la/imagen2.jpg)
