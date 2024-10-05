@@ -83,14 +83,16 @@ El estudio analizará la relación entre la incidencia de enfermedades respirato
 #### 1.4 Objetivos
 
 **Objetivo General**  
-Evaluar la salud y el bienestar de los estudiantes de la Facultad de Ingeniería de la Universidad Privada de Tacna, mediante el análisis de indicadores como el peso y la altura, así como el impacto de las intervenciones médicas en función del género y el tiempo.
+Evaluar la salud y el acceso a los servicios médicos de los estudiantes de la Universidad Privada de Tacna, a través del análisis de la asistencia a tópicos, así como de indicadores antropométricos como el peso, la altura y el Índice de Masa Corporal (IMC), considerando variables como la carrera, el género y la matriculación en diferentes semestres durante los años 2018, 2019, 2022 y 2023.
 
 **Objetivos Específicos**  
-- *Calcular el promedio de peso y altura de los estudiantes de la Facultad de Ingeniería que utilizan el tópico de salud.
-- *Analizar la intervención por género y el promedio de peso registrado el 30 de abril del 2018
-- *Identificar las fechas con mayor atención médica, desglosadas por facultades y escuelas.
-- *Realizar un control de las intervenciones dirigidas al público estudiantil masculino.
-- *Evaluar las intervenciones en estudiantes femeninas, analizando el peso hasta el 31 de diciembre de 2023.
+- *Cantidad de estudiantes que asistieron a tópicos por facultades en los años 2018, 2019, 2022 y 2023.
+- *Calcular el promedio de peso y altura de los estudiantes que utilizan el tópico.
+- *Calcular el promedio de Índice de Masa Corporal (IMC) por carreras.
+- *Analizar el promedio de IMC en función del género entre los estudiantes de la facultad.
+- *Evaluar el promedio de IMC según facultades, para identificar variaciones en la salud de los estudiantes.
+- *Determinar el promedio de estudiantes matriculados en el segundo semestre de los años 2018, 2019, 2022 y 2023.
+- *Calcular el promedio de estudiantes matriculados en el primer semestre de los años 2018, 2019, 2022 y 2023.
 
 ---
 
