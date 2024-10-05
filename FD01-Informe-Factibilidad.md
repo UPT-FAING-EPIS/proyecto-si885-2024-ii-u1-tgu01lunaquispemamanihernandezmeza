@@ -90,7 +90,7 @@ Evaluar la salud y el acceso a los servicios médicos de los estudiantes de la U
 - *Calcular el promedio de peso y altura de los estudiantes que utilizan el tópico.
 - *Calcular el promedio de Índice de Masa Corporal (IMC) por carreras.
 - *Analizar el promedio de IMC en función del género entre los estudiantes de la facultad.
-- *Evaluar el promedio de IMC según facultades, para identificar variaciones en la salud de los estudiantes.
+- *Evaluar el promedio de IMC según facultades.
 - *Determinar el promedio de estudiantes matriculados en el segundo semestre de los años 2018, 2019, 2022 y 2023.
 - *Calcular el promedio de estudiantes matriculados en el primer semestre de los años 2018, 2019, 2022 y 2023.
 
