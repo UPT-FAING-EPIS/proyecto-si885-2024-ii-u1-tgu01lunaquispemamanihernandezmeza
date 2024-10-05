@@ -168,7 +168,6 @@ El estudio de factibilidad tiene como objetivo determinar si el análisis de la 
 
 
 
-
 ##### 4.2.1 Costos Generales
 
 | Concepto                  | Monto         |
@@ -192,7 +191,7 @@ Costos asociados con sueldos de programadores y diseñadores durante los 6 meses
 ---
 
 ##### 4.2.3 Costos del Ambiente
-Costos relacionados con el entorno de un centro de desarrollo de software.
+Costos relacionados con el entorno de un centro de desarrollo de software
 
 ![Costos del Ambiente](./media/costoambiente.jpg)
 
