@@ -76,21 +76,21 @@ Docente: Patrick Cuadros Quiroga
 La duración del proyecto está planificada para 3 meses.
 
 #### 1.3 Descripción
-Este proyecto tiene como objetivo investigar cómo las enfermedades respiratorias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. 
+Este proyecto tiene como objetivo investigar cómo las enfermedades y dolencias han afectado a la salud y el bienestar general de los estudiantes universitarios en la Universidad Privada de Tacna. En el contexto universitario, donde los estudiantes enfrentan un entorno académico y social intensivo, es crucial entender cómo la prevalencia de estas enfermedades puede impactar su calidad de vida y rendimiento académico. 
 
-El estudio analizará la relación entre la incidencia de enfermedades respiratorias y diversos factores, como la densidad en espacios comunes, los cambios estacionales, y la efectividad de las políticas de salud existentes. La importancia radica en proporcionar datos basados en evidencia para desarrollar estrategias de prevención y mejorar la salud pública en el campus.
+El estudio analizará la relación entre la incidencia de dolencias y diversos factores, como la densidad en espacios comunes, la efectividad de las políticas de salud existentes ademas de tomar sus precauciones antes de iniciar cada semestre academico donde se analiza las dolencias comunes en cada semestre académico para hace sus prevenciones. La importancia radica en proporcionar datos basados en evidencia para desarrollar estrategias de prevención y mejorar la salud pública en el campus.
 
 #### 1.4 Objetivos
 
 **Objetivo General**  
-Evaluar la salud y el acceso a los servicios médicos de los estudiantes de la Universidad Privada de Tacna, a través del análisis de la asistencia a tópicos, así como de indicadores antropométricos como el peso, la altura y el Índice de Masa Corporal (IMC), considerando variables como la carrera, el género y la matriculación en diferentes semestres durante los años 2018, 2019, 2022 y 2023.
+Evaluar la salud y el acceso a los servicios de la Universidad Privada de Tacna, a través del análisis de la asistencia a tópicos, así como de indicadores de dolencias segun semestre academico, considerando variables como el género y la matriculación en diferentes semestres durante los años 2018, 2019, 2022 y 2023.
 
 **Objetivos Específicos**  
 - *Cantidad de estudiantes que asistieron a tópicos por facultades en los años 2018, 2019, 2022 y 2023.
-- *Calcular el promedio de peso y altura de los estudiantes que utilizan el tópico.
-- *Calcular el promedio de Índice de Masa Corporal (IMC) por carreras.
-- *Analizar el promedio de IMC en función del género entre los estudiantes de la facultad.
-- *Evaluar el promedio de IMC según facultades.
+- *Calcular el promedio de dolencias entre publico masculino o femenino.
+- *Calcular el promedio de dolencias previo inicio del semestre académico para preveer prevalencias de estas.
+- *Analizar de tendencias de Salud.
+- *Evaluar el promedio de enfermedades segun el Año.
 - *Determinar el promedio de estudiantes matriculados en el segundo semestre de los años 2018, 2019, 2022 y 2023.
 - *Calcular el promedio de estudiantes matriculados en el primer semestre de los años 2018, 2019, 2022 y 2023.
 
