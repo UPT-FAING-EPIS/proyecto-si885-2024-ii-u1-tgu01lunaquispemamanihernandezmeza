@@ -96,27 +96,27 @@
 
 #### 1.1 Propósito
 
-Este documento tiene como propósito analizar la prevalencia de enfermedades comunes entre los estudiantes del campus universitario, con un enfoque particular en enfermedades respiratorias durante los últimos cinco años. Se busca identificar patrones, factores contribuyentes, y proponer posibles intervenciones para mejorar la salud pública en el campus.
+Este documento tiene como propósito analizar la prevalencia de enfermedades comunes entre los estudiantes del campus universitario, con un enfoque particular en enfermedades y dolencias durante los últimos cinco años. Se busca identificar patrones, factores contribuyentes, y proponer posibles intervenciones para mejorar la salud pública en el campus.
 
 #### 1.2 Alcance
 
-El análisis se centrará en la prevalencia de enfermedades respiratorias, incluyendo gripe, resfriados, y otras afecciones relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años y se compararán con promedios nacionales y regionales.
+El análisis se centrará en la prevalencia de enfermedades más comunes y entre otras dolencias relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años y se compararán con promedios nacionales y regionales.
 
 #### 1.3 Definiciones, Siglas y Abreviaturas
 
 - **Prevalencia**: Número de casos de una enfermedad presentes en una población durante un tiempo específico.
-- **Enfermedades Respiratorias**: Incluye afecciones como la gripe, resfriado común, bronquitis, y neumonía.
-- **Estudiantes**: Población matriculada en cursos de tiempo completo y parcial en la universidad.
+- **Padecimientos**: Incluye afecciones y dolencias más comunes.
+- **Estudiantes**: Población matriculada en primera y segunda fase del año en la universidad.
 
 #### 1.4 Referencias
 
 - Reportes de salud del campus (2019-2024).
-- Estudios nacionales sobre enfermedades respiratorias en estudiantes universitarios.
+- Estudios nacionales sobre enfermedades en estudiantes universitarios.
 - Artículos académicos sobre salud pública en entornos educativos.
 
 #### 1.5 Visión General
 
-Este análisis proporcionará una visión integral sobre las tendencias de prevalencia de enfermedades respiratorias entre estudiantes, identificando posibles factores de riesgo y proponiendo estrategias para mitigar la incidencia de estas enfermedades en el futuro.
+Este análisis proporcionará una visión integral sobre las tendencias de prevalencia de enfermedades entre estudiantes, identificando posibles factores de riesgo y proponiendo estrategias para mitigar la incidencia de estas enfermedades en el futuro.
 
 ---
 
@@ -128,7 +128,7 @@ La creciente incidencia de enfermedades respiratorias en el campus representa un
 
 #### 2.2 Definición del problema
 
-En los últimos cinco años, se ha observado un aumento significativo en los casos de enfermedades respiratorias entre los estudiantes del campus. Este incremento no solo afecta la salud de los individuos, sino que también tiene repercusiones negativas en el entorno académico y la eficiencia del sistema educativo.
+En los últimos cinco años, se ha observado un aumento significativo en los casos de malestares entre los estudiantes del campus. Este incremento no solo afecta la salud de los individuos, sino que también tiene repercusiones negativas en el entorno académico y la eficiencia del sistema educativo.
 
 ---
 
@@ -136,24 +136,23 @@ En los últimos cinco años, se ha observado un aumento significativo en los cas
 
 #### 3.1 Resumen de los interesados
 
-- **Administración del Campus**: Interesada en mejorar la salud general del estudiantado y reducir el ausentismo.
-- **Departamentos de Salud y Bienestar**: Encargados de implementar programas de salud y de monitorear la salud pública en el campus.
-- **Estudiantes**: Principales afectados por la prevalencia de enfermedades respiratorias.
+- **Organizacion de Bienestar Universitario(Obun)**: Encargados de implementar programas de salud y de monitorear la salud pública en el campus.
+- **Estudiantes**: Principales afectados por la prevalencia de enfermedades.
 
 #### 3.2 Resumen de los usuarios
 
-- **Estudiantes**: Necesitan acceso a información y recursos de salud para prevenir enfermedades.
-- **Personal Médico del Campus**: Necesita datos precisos para identificar tendencias y diseñar programas efectivos.
+- **Estudiantes**: Necesitan acceso a información y recursos de salud para prevenir enfermedades, malestares entre otros.
+- **Organizacion de Bienestar Universitario(Obun)**: Necesita datos precisos para identificar tendencias y diseñar programas efectivos.
 - **Administradores**: Requieren información para tomar decisiones informadas sobre políticas de salud.
 
 #### 3.3 Entorno de usuario
 
-Los usuarios interactúan en un entorno universitario que incluye espacios compartidos como aulas, residencias, bibliotecas y gimnasios, donde la transmisión de enfermedades respiratorias es más probable.
+Los usuarios interactúan en un entorno universitario que incluye espacios compartidos como aulas, residencias, bibliotecas y gimnasios, donde la transmisión de enfermedades es más probable.
 
 #### 3.4 Perfiles de los interesados
 
 - **Administradores del Campus**: Responsables de las políticas de salud y seguridad.
-- **Departamentos de Salud**: Encargados de la gestión de la salud en el campus.
+- **Organizacion de Bienestar Universitario(Obun)**: Encargados de la gestión de la salud en el campus.
 
 #### 3.5 Perfiles de los Usuarios
 
@@ -162,9 +161,9 @@ Los usuarios interactúan en un entorno universitario que incluye espacios compa
 
 #### 3.6 Necesidades de los interesados y usuarios
 
-- **Administradores**: Necesitan datos para evaluar la efectividad de políticas de salud.
+- **Organizacion de Bienestar Universitario(Obun)**: Necesitan datos para evaluar la efectividad de políticas de salud.
 - **Estudiantes**: Necesitan programas de prevención y educación sobre enfermedades respiratorias.
-- **Personal Médico**: Requiere sistemas eficientes para la detección temprana y el seguimiento de enfermedades.
+- **Personal Tópico**: Requiere sistemas eficientes para la detección temprana y el seguimiento de enfermedades.
 
 ---
 
@@ -172,7 +171,7 @@ Los usuarios interactúan en un entorno universitario que incluye espacios compa
 
 #### 4.1 Perspectiva del producto
 
-El "Proyecto Prevalencia de Enfermedades en el Campus" tiene como objetivo analizar la prevalencia de enfermedades respiratorias entre estudiantes de la Universidad Privada de Tacna. Nuestro enfoque se centra en entender cómo estas enfermedades afectan la salud y el rendimiento académico, y en proponer intervenciones que mejoren la calidad de vida en el campus.
+El "Proyecto Prevalencia de Enfermedades en el Campus" tiene como objetivo analizar la prevalencia de enfermedades entre estudiantes de la Universidad Privada de Tacna. Nuestro enfoque se centra en entender cómo estas enfermedades afectan la salud y el rendimiento académico, y en proponer intervenciones que mejoren la calidad de vida en el campus.
 
 #### 4.2 Resumen de capacidades
 
@@ -237,7 +236,7 @@ El "Proyecto Prevalencia de Enfermedades en el Campus" tiene como objetivo anali
 
 ### CONCLUSIONES
 
-1. **Aumento de Enfermedades Respiratorias**: El análisis de los datos recopilados durante los últimos cinco años muestra un incremento significativo en la prevalencia de enfermedades respiratorias entre los estudiantes del campus, lo que refleja una necesidad urgente de intervenciones.
+1. **Aumento de dolencias entre los estudiantes**: El análisis de los datos recopilados durante los últimos cinco años muestra un incremento significativo en la prevalencia de enfermedades  entre los estudiantes del campus, lo que refleja una necesidad urgente de intervenciones.
 
 2. **Impacto en la Salud y Rendimiento Académico**: La alta incidencia de estas enfermedades no solo afecta la salud individual de los estudiantes, sino que también tiene repercusiones negativas en su rendimiento académico y en la comunidad universitaria en general.
 
@@ -249,9 +248,9 @@ El "Proyecto Prevalencia de Enfermedades en el Campus" tiene como objetivo anali
 
 ### RECOMENDACIONES
 
-1. **Implementación de Programas de Prevención**: Desarrollar e implementar programas de salud que incluyan talleres sobre prevención de enfermedades respiratorias, promoción de hábitos saludables, y vacunaciones contra la gripe.
+1. **Implementación de Programas de Prevención**: Desarrollar e implementar programas de salud que incluyan talleres sobre prevención de enfermedades , promoción de hábitos saludables, y vacunaciones.
 
-2. **Campañas de Concientización**: Diseñar campañas de comunicación que informen a los estudiantes sobre la importancia de la prevención y la detección temprana de enfermedades respiratorias, utilizando plataformas digitales y medios físicos en el campus.
+2. **Campañas de Concientización**: Diseñar campañas de comunicación que informen a los estudiantes sobre la importancia de la prevención y la detección temprana de enfermedades , utilizando plataformas digitales y medios físicos en el campus.
 
 3. **Monitoreo y Evaluación**: Establecer un sistema de monitoreo continuo de la salud estudiantil para evaluar la efectividad de las intervenciones implementadas, ajustando estrategias según los resultados obtenidos.
 
