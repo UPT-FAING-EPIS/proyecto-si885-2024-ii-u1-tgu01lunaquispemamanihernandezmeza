@@ -117,7 +117,7 @@ Evaluar la salud y el acceso a los servicios de la Universidad Privada de Tacna,
 ### 3. Análisis de la Situación Actual
 
 #### 3.1 Planteamiento del Problema
-La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud mental y el bienestar de sus estudiantes debido a las altas tasas de estrés, ansiedad y depresión. Se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto de la actividad física en la salud mental de los estudiantes.
+La Universidad Privada de Tacna (UPT) enfrenta un creciente interés en mejorar la salud  y el bienestar de sus estudiantes. Se han implementado diversos programas de apoyo psicológico y bienestar, pero aún no se ha evaluado exhaustivamente el impacto en la salud mental de los estudiantes.
 
 #### 3.2 Consideraciones de Hardware y Software
 
