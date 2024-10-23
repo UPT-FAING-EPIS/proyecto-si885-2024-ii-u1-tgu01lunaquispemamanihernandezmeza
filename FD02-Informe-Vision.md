@@ -100,7 +100,7 @@ Este documento tiene como propósito analizar la prevalencia de enfermedades com
 
 #### 1.2 Alcance
 
-El análisis se centrará en la prevalencia de enfermedades más comunes y entre otras dolencias relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años y se compararán con promedios nacionales y regionales.
+El análisis se centrará en la prevalencia de enfermedades más comunes y entre otras dolencias relacionadas, entre la población estudiantil. Se incluirán datos estadísticos de los últimos cinco años.
 
 #### 1.3 Definiciones, Siglas y Abreviaturas
 
