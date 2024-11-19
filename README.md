@@ -40,5 +40,5 @@ Se ha creado una máquina virtual en Azure con los siguientes detalles:
     ```bash
     terraform apply
     ```
-
 Los recursos se crearán en el grupo de recursos de Azure en la región **East US**.
+
