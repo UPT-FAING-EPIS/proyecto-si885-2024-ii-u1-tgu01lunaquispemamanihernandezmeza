@@ -24,10 +24,7 @@ jobs:
     - name: Configure Azure credentials
       uses: azure/login@v1
       with:
-        client-id: ${{ secrets.AZURE_CLIENT_ID }}
-        client-secret: ${{ secrets.AZURE_CLIENT_SECRET }}
-        tenant-id: ${{ secrets.AZURE_TENANT_ID }}
-        subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+        creds: ${{ secrets.AZURE_CREDENTIALS }}  # Referencia al secret que guardaste
 
     - name: Terraform Init
       run: terraform init
@@ -46,11 +43,9 @@ jobs:
 
     - name: Get IP address of VM
       run: |
-        # Aquí obtenemos la IP pública de la VM creada
         IP_ADDRESS=$(terraform output -raw vm_public_ip)
         echo "IP_PUBLICA=$IP_ADDRESS" >> $GITHUB_ENV
 
     - name: Run tests on VM
       run: |
-        # Ahora nos conectamos a la VM vía SSH y ejecutamos los comandos de prueba
         ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa adminuser@$IP_PUBLICA "comando_para_ejecutar_pruebas"
